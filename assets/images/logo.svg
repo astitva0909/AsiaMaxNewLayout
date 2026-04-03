@@ -1,0 +1,15 @@
+<svg viewBox="0 0 500 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Brand Name -->
+  <text x="0" y="60" font-family="Poppins, Arial, sans-serif" font-size="48" font-weight="700">
+    <tspan fill="#ff5a1f">Asia</tspan>
+    <tspan fill="#111827"> Max</tspan>
+  </text>
+
+  <!-- Tagline -->
+  <text x="2" y="95" font-family="Poppins, Arial, sans-serif" font-size="18" fill="#6b7280">
+    Tours &amp; Travels
+  </text>
+
+  <!-- Accent Line -->
+  <rect x="0" y="105" width="120" height="4" fill="#ff5a1f"></rect>
+</svg>

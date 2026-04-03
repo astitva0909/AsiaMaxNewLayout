@@ -1,0 +1,294 @@
+<div
+            class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-[25px]"
+          >
+            <div
+              class="group rounded-[15px] border border-[#F5E3E7] dark:border-white/10"
+            >
+              <a
+                href="vehicle-details.html"
+                class="block overflow-hidden rounded-[15px]"
+              >
+                <img
+                  src="assets/images/vehicles/vanwithdriverservice.png"
+                  class="rounded-[15px] transition-all duration-300 ease-in-out group-hover:scale-110"
+                  alt="vehicle-image"
+                />
+              </a>
+              <div class="p-[20px] md:p-[25px] lg:p-[30px]">
+                <div class="flex justify-between gap-[15px]">
+                  <div>
+                    <h3
+                      class="text-base md:text-lg lg:text-xl leading-[1.2] mb-[5px]"
+                    >
+                      <a href="vehicle-details.html" class="hover:text-primary">
+                        10 Seater Van with Driver
+                      </a>
+                    </h3>
+                    <span class="block font-medium"> Minibus/Minivan </span>
+                  </div>
+                  <div class="ltr:text-right rtl:text-left">
+                    <span
+                      class="block font-bold text-primary mb-[5px] text-base md:text-lg lg:text-xl leading-[1.2]"
+                    >
+                      RM600
+                    </span>
+                    <span class="block font-medium text-13 md:text-sm">
+                      Per day (8hours)
+                    </span>
+                  </div>
+                </div>
+                
+                <ul class="md:mt-[20px]">
+                  <li
+                    class="!text-black font-medium text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px] mb-[10px] last:mb-0"
+                  >
+                    <i
+                      class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                    ></i>
+                    Ideal for small groups
+                  </li>
+                  <li
+                    class="!text-black font-medium text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px] mb-[10px] last:mb-0"
+                  >
+                    <i
+                      class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                    ></i>
+                    Includes toll & fuel
+                  </li>
+                  <li
+                    class="!text-black font-medium text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px] mb-[10px] last:mb-0"
+                  >
+                    <i
+                      class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                    ></i>
+                    Available in Kuala Lumpur & Penang
+                  </li>
+                  <li
+                    class="!text-black font-medium text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px] mb-[10px] last:mb-0"
+                  >
+                    <i
+                      class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                    ></i>
+                    Professional driver with 10+ years of experience
+                  </li>
+                  <li
+                    class="!text-black font-medium text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px] mb-[10px] last:mb-0"
+                  >
+                    <i
+                      class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                    ></i>
+                    Extra hour: RM 50
+                  </li>
+                </ul>
+                <br>
+                <div
+                  class="flex items-center flex-wrap gap-[20px] md:gap-[25px] lg:gap-[30px]"
+                >
+                  <a href="vehicle-details.html" class="primary-btn">
+                    <span> Enquire Now </span>
+                    <i
+                      class="ri-car-line !bg-white !text-black dark:!bg-dark dark:!text-white"
+                    ></i>
+                  </a>
+                  <a
+                    href="vehicle-details.html"
+                    class="inline-block text-15 md:text-base lg:text-lg xl:text-xl font-medium hover:text-primary"
+                  >
+                    See Details
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div
+              class="group rounded-[15px] border border-[#F5E3E7] dark:border-white/10"
+            >
+              <a
+                href="vehicle-details.html"
+                class="block overflow-hidden rounded-[15px]"
+              >
+                <img
+                  src="assets/images/vehicles/vanwithdriverservice.png"
+                  class="rounded-[15px] transition-all duration-300 ease-in-out group-hover:scale-110"
+                  alt="vehicle-image"
+                />
+              </a>
+              <div class="p-[20px] md:p-[25px] lg:p-[30px]">
+                <div class="flex justify-between gap-[15px]">
+                  <div>
+                    <h3
+                      class="text-base md:text-lg lg:text-xl leading-[1.2] mb-[5px]"
+                    >
+                      <a href="vehicle-details.html" class="hover:text-primary">
+                        16 Seater Van with Driver
+                      </a>
+                    </h3>
+                    <span class="block font-medium"> Minibus & Minivan </span>
+                  </div>
+                  <div class="ltr:text-right rtl:text-left">
+                    <span
+                      class="block font-bold text-primary mb-[5px] text-base md:text-lg lg:text-xl leading-[1.2]"
+                    >
+                      RM800
+                    </span>
+                    <span class="block font-medium text-13 md:text-sm">
+                      Per day (8hours)
+                    </span>
+                  </div>
+                </div>
+                  <ul class="md:mt-[20px]">
+                  <li
+                    class="!text-black font-medium text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px] mb-[10px] last:mb-0"
+                  >
+                    <i
+                      class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                    ></i>
+                    Perfect for group travel
+                  </li>
+                  <li
+                    class="!text-black font-medium text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px] mb-[10px] last:mb-0"
+                  >
+                    <i
+                      class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                    ></i>
+                    Includes toll & fuel
+                  </li>
+                  <li
+                    class="!text-black font-medium text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px] mb-[10px] last:mb-0"
+                  >
+                    <i
+                      class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                    ></i>
+                    Available in Kuala Lumpur & Penang
+                  </li>
+                  <li
+                    class="!text-black font-medium text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px] mb-[10px] last:mb-0"
+                  >
+                    <i
+                      class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                    ></i>
+                    Professional driver with 10+ years of experience
+                  </li>
+                  <li
+                    class="!text-black font-medium text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px] mb-[10px] last:mb-0"
+                  >
+                    <i
+                      class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                    ></i>
+                    Extra hour: RM 80
+                  </li>
+                </ul>
+                <br>
+                <div
+                  class="flex items-center flex-wrap gap-[20px] md:gap-[25px] lg:gap-[30px]"
+                >
+                  <a href="vehicle-details.html" class="primary-btn">
+                    <span> Enquire Now</span>
+                    <i
+                      class="ri-car-line !bg-white !text-black dark:!bg-dark dark:!text-white"
+                    ></i>
+                  </a>
+                  <a
+                    href="vehicle-details.html"
+                    class="inline-block text-15 md:text-base lg:text-lg xl:text-xl font-medium hover:text-primary"
+                  >
+                    See Details
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div
+              class="group rounded-[15px] border border-[#F5E3E7] dark:border-white/10"
+            >
+              <a
+                href="vehicle-details.html"
+                class="block overflow-hidden rounded-[15px]"
+              >
+                <img
+                  src="assets/images/vehicles/vanwithdriverservice.png"
+                  class="rounded-[15px] transition-all duration-300 ease-in-out group-hover:scale-110"
+                  alt="vehicle-image"
+                />
+              </a>
+              <div class="p-[20px] md:p-[25px] lg:p-[30px]">
+                <div class="flex justify-between gap-[15px]">
+                  <div>
+                    <h3
+                      class="text-base md:text-lg lg:text-xl leading-[1.2] mb-[5px]"
+                    >
+                      <a href="vehicle-details.html" class="hover:text-primary">
+                        Custom Tour Vans Available
+                      </a>
+                    </h3>
+                    <span class="block font-medium"> Minibus & Minivan </span>
+                  </div>
+                  <div class="ltr:text-right rtl:text-left">
+                    <span
+                      class="block font-bold text-primary mb-[5px] text-base md:text-lg lg:text-xl leading-[1.2]"
+                    >
+                      
+                    </span>
+                    <span class="block font-medium text-13 md:text-sm">
+                      
+                    </span>
+                  </div>
+                </div>
+                <br>
+                  <ul class="md:mt-[20px]">
+                  
+                  <li
+                    class="!text-black font-medium text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px] mb-[10px] last:mb-0"
+                  >
+                    <i
+                      class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                    ></i>
+                    Custom routes across Malaysia
+                  </li>
+                  <li
+                    class="!text-black font-medium text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px] mb-[10px] last:mb-0"
+                  >
+                    <i
+                      class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                    ></i>
+                    Multi-day tours available
+
+                  </li>
+                  <li
+                    class="!text-black font-medium text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px] mb-[10px] last:mb-0"
+                  >
+                    <i
+                      class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                    ></i>
+                   Professional driver with 10+ years of experience
+
+                  </li>
+                </ul>
+                <br>
+                <br>
+                <br>
+                <br>
+                
+                
+                
+                
+                
+                
+                
+                <div
+                  class="flex items-center flex-wrap gap-[20px] md:gap-[25px] lg:gap-[30px]"
+                >
+                  <a href="vehicle-details.html" class="primary-btn">
+                    <span> Enquire Now </span>
+                    <i
+                      class="ri-car-line !bg-white !text-black dark:!bg-dark dark:!text-white"
+                    ></i>
+                  </a>
+                  <a
+                    href="vehicle-details.html"
+                    class="inline-block text-15 md:text-base lg:text-lg xl:text-xl font-medium hover:text-primary"
+                  >
+                    See Details
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
