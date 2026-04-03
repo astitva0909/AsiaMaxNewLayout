@@ -1120,7 +1120,7 @@
               target="_blank"
               class="font-semibold hover:text-primary"
             >
-              123 Business Ave, Los Angeles, CA 90045
+              23A, jalan perdana 6/10, Pandan Perdana, Kuala Lumpur
             </a>
           </li>
         </ul>
@@ -1824,7 +1824,7 @@
                     target="_blank"
                     class="font-semibold text-white hover:text-primary"
                   >
-                    123 Business Ave, Los Angeles, CA 90045
+                    23A, jalan perdana 6/10, Pandan Perdana, Kuala Lumpur
                   </a>
                 </li>
               </ul>
@@ -1838,7 +1838,7 @@
           <p class="text-white !mb-0">
             © ASIA MAX. All Rights Reserved. Powered by
             <a
-              href="https://arxionlabs.com/"
+              href="https://astitva0909.github.io/ArxionLabs/"
               class="text-primary font-semibold hover:underline"
               target="_blank"
               >ArxionLabs</a
