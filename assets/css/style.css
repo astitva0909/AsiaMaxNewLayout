@@ -5851,8 +5851,13 @@ html[dir="rtl"] .swiper .swiper-slide * {
   inset: 0;
   background-size: cover;
   background-position: center;
-  transform: scale(1.1);
+
+  transform: scale(1.05);
   transition: transform 6s ease;
+}
+
+.swiper-slide-active .hero-bg {
+  transform: scale(1);
 }
 
 /* Zoom effect */
@@ -5866,9 +5871,9 @@ html[dir="rtl"] .swiper .swiper-slide * {
   inset: 0;
   background: linear-gradient(
     to right,
-    rgba(0, 0, 0, 0.7) 20%,
-    rgba(0, 0, 0, 0.3) 60%,
-    rgba(0, 0, 0, 0.1) 100%
+    rgba(0, 0, 0, 0.2) 20%,
+    rgba(0, 0, 0, 0) 60%,
+    rgba(0, 0, 0, 0) 100%
   );
 }
 
@@ -5934,7 +5939,7 @@ html[dir="rtl"] .swiper .swiper-slide * {
     align-items: flex-end;
     justify-content: flex-start;
     text-align: left;
-    padding: 0 20px 60px 20px;
+    padding: 0 20px 90px 20px;
   }
 
   .hero-inner {
