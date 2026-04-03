@@ -320,7 +320,7 @@
                       href="pricing.html"
                       class="nav-link active font-medium relative text-black dark:text-white px-[25px] block hover:text-primary"
                     >
-                      Pricing Plan
+                      
                     </a>
                   </li>
                   <li class="nav-item relative mb-[17px] last:mb-0">
@@ -830,7 +830,7 @@
                   href="pricing.html"
                   class="nav-link active relative font-medium block text-base text-black dark:text-white hover:text-primary"
                 >
-                  Pricing Plan
+                  
                 </a>
               </li>
               <li class="nav-item px-[20px] mb-[15px] last:mb-0">
@@ -1220,7 +1220,7 @@
           <h2
             class="mb-[8px] text-[34px] md:text-[44px] lg:text-[54px] xl:text-[64px] leading-[1.2] xl:max-w-[985px]"
           >
-            Pricing Plan
+            
           </h2>
           <ul
             class="flex flex-wrap items-center justify-center lg:justify-start gap-[10px] md:gap-[15px]"
@@ -1238,7 +1238,7 @@
                 class="block w-px h-[15px] bg-black dark:bg-white ltr:rotate-[15deg] rtl:rotate-[-15deg] mt-px"
               ></span>
             </li>
-            <li>Pricing Plan</li>
+            <li></li>
           </ul>
           <div
             class="absolute bottom-0 ltr:right-0 rtl:left-0 bg-white dark:bg-dark ltr:rounded-tl-[15px] rtl:rounded-tr-[15px] py-[25px] px-[50px] hidden lg:block"
@@ -1914,7 +1914,7 @@
                     href="pricing.html"
                     class="text-[#d9d9d9] hover:text-primary"
                   >
-                    Pricing plan
+                    
                   </a>
                 </li>
                 <li class="mb-[8px] last:mb-0">

@@ -43,9 +43,9 @@
             <div class="container lg:!max-w-full 2xl:!max-w-[1620px]">
                 <div class="grid grid-cols-1 lg:grid-cols-2 items-center gap-[8px] md:gap-[10px] lg:gap-[25px]">
                     <div class="flex flex-wrap justify-center lg:justify-start items-center gap-[8px] md:gap-[15px] xl:gap-[25px] font-medium">
-                        <a href="https://templates.arxionlabs.com/cdn-cgi/l/email-protection#264e434a4a49516654434852570845494b" class="inline-block relative ltr:pl-[20px] rtl:pr-[20px] ltr:md:pl-[23px] rtl:md:pr-[23px] hover:text-white/80">
+                        <a href="https://templates.arxionlabs.com/cdn-cgi/l/email-protection#254d4049494a526557404b51540b464a48" class="inline-block relative ltr:pl-[20px] rtl:pr-[20px] ltr:md:pl-[23px] rtl:md:pr-[23px] hover:text-white/80">
                             <i class="ri-mail-line font-normal absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0"></i>
-                            <span class="__cf_email__" data-cfemail="aec6cbc2c2c1d9eedccbc0dadf80cdc1c3">[email&#160;protected]</span>
+                            <span class="__cf_email__" data-cfemail="b0d8d5dcdcdfc7f0c2d5dec4c19ed3dfdd">[email&#160;protected]</span>
                         </a>
                         <span class="inline-block relative ltr:pl-[20px] rtl:pr-[20px] ltr:md:pl-[23px] rtl:md:pr-[23px]">
                             <i class="ri-time-line font-normal absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0"></i>
@@ -199,7 +199,6 @@
                   </li>
                 </ul> -->
               </li>
-              
               <li class="nav-item relative">
                 <a
                   href="services.html"
@@ -261,7 +260,6 @@
                   </li>
                 </ul> 
               </li>
-
               <li class="nav-item relative">
                 <a
                   href="javascript:void(0);"
@@ -283,7 +281,7 @@
                   <li class="nav-item relative mb-[17px] last:mb-0">
                     <a
                       href="drivers.html"
-                      class="nav-link dropdown-toggle active font-medium relative text-black dark:text-white px-[25px] block hover:text-primary"
+                      class="nav-link dropdown-toggle font-medium relative text-black dark:text-white px-[25px] block hover:text-primary"
                     >
                       Drivers
                     </a>
@@ -302,7 +300,7 @@
                       <li class="nav-item relative mb-[17px] last:mb-0">
                         <a
                           href="driver-details.html"
-                          class="nav-link active font-medium relative text-black dark:text-white px-[25px] block hover:text-primary"
+                          class="nav-link font-medium relative text-black dark:text-white px-[25px] block hover:text-primary"
                         >
                           Driver Details
                         </a>
@@ -312,7 +310,7 @@
                   <li class="nav-item relative mb-[17px] last:mb-0">
                     <a
                       href="locations.html"
-                      class="nav-link font-medium relative text-black dark:text-white px-[25px] block hover:text-primary"
+                      class="nav-link active font-medium relative text-black dark:text-white px-[25px] block hover:text-primary"
                     >
                       Locations
                     </a>
@@ -322,7 +320,7 @@
                       href="pricing.html"
                       class="nav-link font-medium relative text-black dark:text-white px-[25px] block hover:text-primary"
                     >
-                      Pricing Plan
+                      
                     </a>
                   </li>
                   <li class="nav-item relative mb-[17px] last:mb-0">
@@ -593,7 +591,7 @@
                   id="searchBox"
                   class="absolute mt-[10px] top-full ltr:right-0 rtl:left-0 w-[380px] xl:w-[420px] bg-white dark:bg-black p-[20px] md:p-[25px] lg:p-[30px] invisible opacity-0 transition-all duration-300 ease-in-out shadow-[0_8px_24px_rgba(149,157,165,0.2)] dark:shadow-none"
                 >
-                  <form action="driver-details.html#" class="relative">
+                  <form action="locations.html#" class="relative">
                     <input
                       type="text"
                       class="form-input dark:!bg-dark"
@@ -712,6 +710,7 @@
                 </a>
               </li>
             </ul> -->
+          </li>
           <li class="nav-item mb-[15px] md:mb-[20px] last:mb-0">
             <a
               href="services.html"
@@ -775,7 +774,7 @@
           <li class="nav-item mb-[15px] md:mb-[20px] last:mb-0">
             <a
               href="javascript:void(0);"
-              class="nav-link dropdown-toggle active relative font-medium block text-base text-black dark:text-white hover:text-primary"
+              class="nav-link dropdown-toggle relative font-medium block text-base text-black dark:text-white hover:text-primary"
             >
               Pages
             </a>
@@ -811,7 +810,7 @@
                   <li class="nav-item px-[20px] mb-[15px] last:mb-0">
                     <a
                       href="driver-details.html"
-                      class="nav-link active relative font-medium block text-base text-black dark:text-white hover:text-primary"
+                      class="nav-link relative font-medium block text-base text-black dark:text-white hover:text-primary"
                     >
                       Driver Details
                     </a>
@@ -821,7 +820,7 @@
               <li class="nav-item px-[20px] mb-[15px] last:mb-0">
                 <a
                   href="locations.html"
-                  class="nav-link relative font-medium block text-base text-black dark:text-white hover:text-primary"
+                  class="nav-link active relative font-medium block text-base text-black dark:text-white hover:text-primary"
                 >
                   Locations
                 </a>
@@ -831,7 +830,7 @@
                   href="pricing.html"
                   class="nav-link relative font-medium block text-base text-black dark:text-white hover:text-primary"
                 >
-                  Pricing Plan
+                  
                 </a>
               </li>
               <li class="nav-item px-[20px] mb-[15px] last:mb-0">
@@ -1104,12 +1103,12 @@
           <li class="mb-[5px] last:mb-0 flex items-center flex-wrap gap-[5px]">
             Email:
             <a
-              href="https://templates.arxionlabs.com/cdn-cgi/l/email-protection#8ce4e9e0e0e3ccfee9e2f8fda2efe3e1"
+              href="https://templates.arxionlabs.com/cdn-cgi/l/email-protection#c6aea3aaaaa986b4a3a8b2b7e8a5a9ab"
               class="font-bold md:text-lg lg:text-xl text-primary hover:underline"
             >
               <span
                 class="__cf_email__"
-                data-cfemail="8de5e8e1e1e2cdffe8e3f9fca3eee2e0"
+                data-cfemail="a1c9c4cdcdcee1d3c4cfd5d08fc2cecc"
                 >[email&#160;protected]</span
               >
             </a>
@@ -1117,7 +1116,7 @@
           <li class="mb-[5px] last:mb-0 flex items-center flex-wrap gap-[5px]">
             Address:
             <a
-              href="driver-details.html#"
+              href="locations.html#"
               target="_blank"
               class="font-semibold hover:text-primary"
             >
@@ -1131,7 +1130,7 @@
         <ul>
           <li class="mb-[7px] md:mb-[10px] last:mb-0">
             <a
-              href="driver-details.html#"
+              href="locations.html#"
               target="_blank"
               class="group text-black dark:text-white flex items-center gap-[10px]"
             >
@@ -1143,7 +1142,7 @@
           </li>
           <li class="mb-[7px] md:mb-[10px] last:mb-0">
             <a
-              href="driver-details.html#"
+              href="locations.html#"
               target="_blank"
               class="group text-black dark:text-white flex items-center gap-[10px]"
             >
@@ -1155,7 +1154,7 @@
           </li>
           <li class="mb-[7px] md:mb-[10px] last:mb-0">
             <a
-              href="driver-details.html#"
+              href="locations.html#"
               target="_blank"
               class="group text-black dark:text-white flex items-center gap-[10px]"
             >
@@ -1167,7 +1166,7 @@
           </li>
           <li class="mb-[7px] md:mb-[10px] last:mb-0">
             <a
-              href="driver-details.html#"
+              href="locations.html#"
               target="_blank"
               class="group text-black dark:text-white flex items-center gap-[10px]"
             >
@@ -1191,7 +1190,7 @@
             0
           </span>
         </a>
-        <form action="driver-details.html#" class="relative flex-1">
+        <form action="locations.html#" class="relative flex-1">
           <input
             type="text"
             class="form-input dark:!bg-dark"
@@ -1205,6 +1204,7 @@
           </button>
         </form>
       </div> -->
+
     </div>
     <div class="backdrop"></div>
     <!-- End Sidebar Modal -->
@@ -1220,7 +1220,7 @@
           <h2
             class="mb-[8px] text-[34px] md:text-[44px] lg:text-[54px] xl:text-[64px] leading-[1.2] xl:max-w-[985px]"
           >
-            Patrick Akers
+            Locations
           </h2>
           <ul
             class="flex flex-wrap items-center justify-center lg:justify-start gap-[10px] md:gap-[15px]"
@@ -1238,15 +1238,7 @@
                 class="block w-px h-[15px] bg-black dark:bg-white ltr:rotate-[15deg] rtl:rotate-[-15deg] mt-px"
               ></span>
             </li>
-            <li>
-              <a href="drivers.html" class="hover:text-primary"> Drivers </a>
-            </li>
-            <li>
-              <span
-                class="block w-px h-[15px] bg-black dark:bg-white ltr:rotate-[15deg] rtl:rotate-[-15deg] mt-px"
-              ></span>
-            </li>
-            <li>Driver Details</li>
+            <li>Locations</li>
           </ul>
           <div
             class="absolute bottom-0 ltr:right-0 rtl:left-0 bg-white dark:bg-dark ltr:rounded-tl-[15px] rtl:rounded-tr-[15px] py-[25px] px-[50px] hidden lg:block"
@@ -1263,327 +1255,695 @@
       </div>
       <!-- End Page Banner -->
 
-      <!-- Driver Details -->
+      <!-- Popular Rental Locations -->
       <div class="py-[60px] md:py-[80px] lg:py-[100px] xl:py-[120px]">
-        <div class="container">
-          <div class="grid grid-cols-1 lg:grid-cols-3 gap-[25px] xl:gap-[50px]">
-            <div class="lg:col-span-1">
-              <div class="relative rounded-[15px]">
-                <img
-                  src="assets/images/drivers/driver1.jpg"
-                  class="rounded-[15px]"
-                  alt="driver-image"
-                />
-                <div
-                  class="absolute left-0 right-0 bottom-0 z-[1] p-[20px] md:p-[25px] lg:p-[30px] flex items-center justify-between"
-                >
-                  <span class="text-white"> Executive Chauffeur </span>
-                  <span
-                    class="inline-block text-13 md:text-sm bg-primary text-white rounded-[30px] py-px px-[8px]"
-                  >
-                    4.9 (128 reviews)
-                  </span>
-                </div>
-                <div
-                  class="absolute inset-0 rounded-[15px]"
-                  style="
-                    background: linear-gradient(
-                      180deg,
-                      rgba(13, 20, 22, 0) 50%,
-                      rgba(13, 20, 22, 0.9) 100%
-                    );
-                  "
-                ></div>
-              </div>
-              <div class="my-[30px] md:my-[40px] lg:my-[50px] text-center">
-                <span class="block font-bold text-primary">
-                  Available Now
-                </span>
-                <h3
-                  class="text-base md:text-lg lg:text-xl leading-[1.2] mt-[8px] mb-[10px]"
-                >
-                  Check Availability
-                </h3>
-                <span class="block"> Next available slot: Today, 2:00 PM </span>
-                <div
-                  class="flex flex-wrap items-center justify-center gap-[5px] mt-[15px] mb-[20px] md:mb-[25px] lg:mb-[30px]"
-                >
-                  <div
-                    class="flex items-center justify-center w-[52px] h-[50px] bg-[#DEFBE6] dark:bg-black border border-[#A7F0BA] dark:border-white/10 rounded-[5px]"
-                  >
-                    M
-                  </div>
-                  <div
-                    class="flex items-center justify-center w-[52px] h-[50px] bg-[#DEFBE6] dark:bg-black border border-[#A7F0BA] dark:border-white/10 rounded-[5px]"
-                  >
-                    T
-                  </div>
-                  <div
-                    class="flex items-center justify-center w-[52px] h-[50px] bg-[#DEFBE6] dark:bg-black border border-[#A7F0BA] dark:border-white/10 rounded-[5px]"
-                  >
-                    W
-                  </div>
-                  <div
-                    class="flex items-center justify-center w-[52px] h-[50px] bg-[#DEFBE6] dark:bg-black border border-[#A7F0BA] dark:border-white/10 rounded-[5px]"
-                  >
-                    T
-                  </div>
-                  <div
-                    class="flex items-center justify-center w-[52px] h-[50px] bg-[#DEFBE6] dark:bg-black border border-[#A7F0BA] dark:border-white/10 rounded-[5px]"
-                  >
-                    F
-                  </div>
-                  <div
-                    class="flex items-center justify-center w-[52px] h-[50px] bg-[#FFF1F1] dark:bg-black border border-[#FFD7D9] dark:border-white/10 rounded-[5px] text-[#FF5100]"
-                  >
-                    S
-                  </div>
-                  <div
-                    class="flex items-center justify-center w-[52px] h-[50px] bg-[#FFF1F1] dark:bg-black border border-[#FFD7D9] dark:border-white/10 rounded-[5px] text-[#FF5100]"
-                  >
-                    S
-                  </div>
-                </div>
-                <a href="contact.html" class="primary-btn group">
-                  <span> Book Patrick </span>
-                  <i class="ri-calendar-2-line"></i>
+        <div
+          class="container"
+          data-cues="slideInUp"
+          data-group="popularRentalLocationsContent"
+        >
+          <div
+            class="text-center xl:max-w-[1090px] mx-auto mb-[30px] md:mb-[35px] lg:mb-[40px]"
+          >
+            <span class="block font-bold text-primary mb-[10px]">
+              Popular Rental Locations
+            </span>
+            <h2 class="mb-0 text-xl md:text-2xl lg:text-3xl leading-[1.2]">
+              With 50+ locations nationwide, find the most convenient ASIA MAX
+              branch for your next adventure. All locations offer our signature
+              premium service.
+            </h2>
+          </div>
+          <div
+            class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-[25px]"
+          >
+            <div
+              class="group bg-white dark:bg-black rounded-[15px] p-[20px] md:p-[25px] lg:p-[30px] shadow-[0_0_200px_rgba(13,20,22,0.1)] dark:shadow-none"
+            >
+              <h3
+                class="text-base md:text-lg lg:text-xl leading-[1.2] mb-[15px] md:mb-[20px]"
+              >
+                <a href="vehicle-details.html" class="hover:text-primary">
+                  LAX International Airport
                 </a>
+              </h3>
+              <a
+                href="vehicle-details.html"
+                class="block overflow-hidden rounded-[15px] mb-[15px] md:mb-[20px]"
+              >
+                <img
+                  src="assets/images/locations/location1.jpg"
+                  class="rounded-[15px] transition-all duration-300 ease-in-out group-hover:scale-110"
+                  alt="location-image"
+                />
+              </a>
+              <ul class="mb-[15px] md:mb-[20px]">
+                <li class="flex items-center gap-[12px] mb-[15px] last:mb-0">
+                  <div
+                    class="flex items-center justify-center flex-none w-[40px] h-[40px] rounded-[10px] bg-[#EFEFF0] dark:bg-dark text-primary text-xl"
+                  >
+                    <i class="ri-map-pin-4-line"></i>
+                  </div>
+                  <div>
+                    <span
+                      class="block leading-[1.2] font-bold text-black dark:text-white mb-[4px]"
+                    >
+                      Terminal 3, Level 1
+                    </span>
+                    <span class="block text-13 md:text-sm">
+                      1 World Way, Los Angeles, CA 90045
+                    </span>
+                  </div>
+                </li>
+                <li class="flex items-center gap-[12px] mb-[15px] last:mb-0">
+                  <div
+                    class="flex items-center justify-center flex-none w-[40px] h-[40px] rounded-[10px] bg-[#EFEFF0] dark:bg-dark text-primary text-xl"
+                  >
+                    <i class="ri-time-line"></i>
+                  </div>
+                  <div>
+                    <span
+                      class="block leading-[1.2] font-bold text-black dark:text-white mb-[4px]"
+                    >
+                      24/7 Operation
+                    </span>
+                    <span class="block text-13 md:text-sm">
+                      Open every day, including holidays
+                    </span>
+                  </div>
+                </li>
+                <li class="flex items-center gap-[12px] mb-[15px] last:mb-0">
+                  <div
+                    class="flex items-center justify-center flex-none w-[40px] h-[40px] rounded-[10px] bg-[#EFEFF0] dark:bg-dark text-primary text-xl"
+                  >
+                    <i class="ri-bus-line"></i>
+                  </div>
+                  <div>
+                    <span
+                      class="block leading-[1.2] font-bold text-black dark:text-white mb-[4px]"
+                    >
+                      Free Shuttle Service
+                    </span>
+                    <span class="block text-13 md:text-sm">
+                      Every 10 minutes to all terminals
+                    </span>
+                  </div>
+                </li>
+              </ul>
+              <div class="flex flex-wrap justify-between text-center">
+                <div>
+                  <span
+                    class="block font-medium text-base md:text-lg lg:text-xl leading-none text-black dark:text-white mb-[4px]"
+                  >
+                    4.8
+                  </span>
+                  <span class="block text-13 md:text-sm"> Rating </span>
+                </div>
+                <div>
+                  <span
+                    class="block font-medium text-base md:text-lg lg:text-xl leading-none text-black dark:text-white mb-[4px]"
+                  >
+                    5 min
+                  </span>
+                  <span class="block text-13 md:text-sm"> Wait Time </span>
+                </div>
+                <div>
+                  <span
+                    class="block font-medium text-base md:text-lg lg:text-xl leading-none text-black dark:text-white mb-[4px]"
+                  >
+                    24/7
+                  </span>
+                  <span class="block text-13 md:text-sm"> Support </span>
+                </div>
               </div>
-              <h3
-                class="mb-[15px] text-base md:text-lg lg:text-xl leading-[1.2]"
-              >
-                Languages
-              </h3>
-              <ul class="mb-[30px] md:mb-[40px] lg:mb-[50px]">
-                <li
-                  class="font-medium text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px] mb-[10px] last:mb-0"
-                >
-                  <i
-                    class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
-                  ></i>
-                  English (Native)
-                </li>
-                <li
-                  class="font-medium text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px] mb-[10px] last:mb-0"
-                >
-                  <i
-                    class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
-                  ></i>
-                  Spanish (Fluent)
-                </li>
-                <li
-                  class="font-medium text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px] mb-[10px] last:mb-0"
-                >
-                  <i
-                    class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
-                  ></i>
-                  French (Conversational)
-                </li>
-              </ul>
-              <h3
-                class="mb-[15px] text-base md:text-lg lg:text-xl leading-[1.2]"
-              >
-                Certifications
-              </h3>
-              <ul>
-                <li
-                  class="font-medium text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px] mb-[10px] last:mb-0"
-                >
-                  <i
-                    class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
-                  ></i>
-                  Defensive Driving Certified
-                </li>
-                <li
-                  class="font-medium text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px] mb-[10px] last:mb-0"
-                >
-                  <i
-                    class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
-                  ></i>
-                  Executive Service Training
-                </li>
-                <li
-                  class="font-medium text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px] mb-[10px] last:mb-0"
-                >
-                  <i
-                    class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
-                  ></i>
-                  First Aid & CPR Certified
-                </li>
-                <li
-                  class="font-medium text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px] mb-[10px] last:mb-0"
-                >
-                  <i
-                    class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
-                  ></i>
-                  Multilingual Communication
-                </li>
-              </ul>
             </div>
-            <div class="lg:col-span-2">
-              <h2
-                class="text-xl md:text-2xl lg:text-3xl leading-[1.2] mb-[12px] md:mb-[15px]"
+            <div
+              class="group bg-white dark:bg-black rounded-[15px] p-[20px] md:p-[25px] lg:p-[30px] shadow-[0_0_200px_rgba(13,20,22,0.1)] dark:shadow-none"
+            >
+              <h3
+                class="text-base md:text-lg lg:text-xl leading-[1.2] mb-[15px] md:mb-[20px]"
               >
-                About Patrick
-              </h2>
-              <p>
-                Patrick is a highly experienced executive chauffeur with over 8
-                years of professional driving experience. He specializes in
-                providing premium transportation services for corporate clients,
-                VIPs, and special events. Known for his punctuality,
-                professionalism, and exceptional customer service, Patrick
-                ensures every journey is comfortable, safe, and tailored to your
-                specific needs.
-              </p>
-              <p>
-                With an impeccable driving record and extensive knowledge of
-                city routes, Patrick navigates efficiently while prioritizing
-                passenger comfort. He takes pride in maintaining his vehicles to
-                the highest standards and staying updated with the latest safety
-                protocols.
-              </p>
-              <h2
-                class="text-xl md:text-2xl lg:text-3xl leading-[1.2] mb-[12px] md:mb-[15px] mt-[25px] md:mt-[30px] lg:mt-[35px] xl:mt-[40px]"
+                <a href="vehicle-details.html" class="hover:text-primary">
+                  Downtown Los Angeles
+                </a>
+              </h3>
+              <a
+                href="vehicle-details.html"
+                class="block overflow-hidden rounded-[15px] mb-[15px] md:mb-[20px]"
               >
-                Contact Information
-              </h2>
-              <ul>
-                <li class="mb-[7px] last:mb-0">
-                  Call:
-                  <a
-                    href="tel:+1855-8079484"
-                    class="text-black dark:text-white text-base md:text-lg lg:text-xl font-bold hover:text-primary"
-                    >+1 855 - 807 9484</a
+                <img
+                  src="assets/images/locations/location2.jpg"
+                  class="rounded-[15px] transition-all duration-300 ease-in-out group-hover:scale-110"
+                  alt="location-image"
+                />
+              </a>
+              <ul class="mb-[15px] md:mb-[20px]">
+                <li class="flex items-center gap-[12px] mb-[15px] last:mb-0">
+                  <div
+                    class="flex items-center justify-center flex-none w-[40px] h-[40px] rounded-[10px] bg-[#EFEFF0] dark:bg-dark text-primary text-xl"
                   >
+                    <i class="ri-map-pin-4-line"></i>
+                  </div>
+                  <div>
+                    <span
+                      class="block leading-[1.2] font-bold text-black dark:text-white mb-[4px]"
+                    >
+                      Financial District
+                    </span>
+                    <span class="block text-13 md:text-sm">
+                      555 S Figueroa St, Los Angeles, CA 90071
+                    </span>
+                  </div>
                 </li>
-                <li class="mb-[7px] last:mb-0">
-                  Email:
-                  <a
-                    href="https://templates.arxionlabs.com/cdn-cgi/l/email-protection#3a4a145b515f48497a485f544e4b14595557"
-                    class="text-black dark:text-white text-base md:text-lg lg:text-xl font-bold hover:text-primary"
-                    ><span
-                      class="__cf_email__"
-                      data-cfemail="38481659535d4a4b784a5d564c49165b5755"
-                      >[email&#160;protected]</span
-                    ></a
+                <li class="flex items-center gap-[12px] mb-[15px] last:mb-0">
+                  <div
+                    class="flex items-center justify-center flex-none w-[40px] h-[40px] rounded-[10px] bg-[#EFEFF0] dark:bg-dark text-primary text-xl"
                   >
+                    <i class="ri-time-line"></i>
+                  </div>
+                  <div>
+                    <span
+                      class="block leading-[1.2] font-bold text-black dark:text-white mb-[4px]"
+                    >
+                      6:00 AM - 11:00 PM
+                    </span>
+                    <span class="block text-13 md:text-sm">
+                      Extended hours on weekends
+                    </span>
+                  </div>
                 </li>
-                <li class="mb-[7px] last:mb-0">
-                  Service Area:
-                  <span
-                    class="text-black dark:text-white text-base md:text-lg lg:text-xl font-bold"
-                    >Metro Area & Airports</span
+                <li class="flex items-center gap-[12px] mb-[15px] last:mb-0">
+                  <div
+                    class="flex items-center justify-center flex-none w-[40px] h-[40px] rounded-[10px] bg-[#EFEFF0] dark:bg-dark text-primary text-xl"
                   >
-                </li>
-                <li class="mb-[7px] last:mb-0">
-                  Driver ID:
-                  <span
-                    class="text-black dark:text-white text-base md:text-lg lg:text-xl font-bold"
-                    >RQ-CH-8472</span
-                  >
+                    <i class="ri-train-line"></i>
+                  </div>
+                  <div>
+                    <span
+                      class="block leading-[1.2] font-bold text-black dark:text-white mb-[4px]"
+                    >
+                      Metro Access
+                    </span>
+                    <span class="block text-13 md:text-sm">
+                      Connected to 7th St/Metro Center station
+                    </span>
+                  </div>
                 </li>
               </ul>
-              <h2
-                class="text-xl md:text-2xl lg:text-3xl leading-[1.2] mb-[15px] md:mb-[20px] mt-[25px] md:mt-[30px] lg:mt-[35px] xl:mt-[40px]"
-              >
-                Performance Stats
-              </h2>
-              <div
-                class="grid grid-cols-2 md:grid-cols-3 gap-[15px] md:gap-[20px]"
-              >
-                <div
-                  class="text-center rounded-[10px] border border-[#FFD7D9] dark:border-white/10 bg-[#FFF1F1] dark:bg-black p-[20px] md:p-[25px] lg:p-[30px]"
-                >
-                  <div
-                    class="font-semibold text-black dark:text-white text-[44px] md:text-[64px] leading-none mb-[5px]"
+              <div class="flex flex-wrap justify-between text-center">
+                <div>
+                  <span
+                    class="block font-medium text-base md:text-lg lg:text-xl leading-none text-black dark:text-white mb-[4px]"
                   >
-                    8+
-                  </div>
-                  <span class="block"> Years Experience </span>
+                    4.9
+                  </span>
+                  <span class="block text-13 md:text-sm"> Rating </span>
                 </div>
-                <div
-                  class="text-center rounded-[10px] border border-[#FFD9BE] dark:border-white/10 bg-[#FFF2E8] dark:bg-black p-[20px] md:p-[25px] lg:p-[30px]"
-                >
-                  <div
-                    class="font-semibold text-black dark:text-white text-[44px] md:text-[64px] leading-none mb-[5px]"
+                <div>
+                  <span
+                    class="block font-medium text-base md:text-lg lg:text-xl leading-none text-black dark:text-white mb-[4px]"
                   >
-                    2K+
-                  </div>
-                  <span class="block"> Trips Completed </span>
+                    8 min
+                  </span>
+                  <span class="block text-13 md:text-sm"> Wait Time </span>
                 </div>
-                <div
-                  class="text-center rounded-[10px] border border-[#E8DAFF] dark:border-white/10 bg-[#F6F2FF] dark:bg-black p-[20px] md:p-[25px] lg:p-[30px]"
-                >
-                  <div
-                    class="font-semibold text-black dark:text-white text-[44px] md:text-[64px] leading-none mb-[5px]"
+                <div>
+                  <span
+                    class="block font-medium text-base md:text-lg lg:text-xl leading-none text-black dark:text-white mb-[4px]"
                   >
-                    4.8/5
-                  </div>
-                  <span class="block"> Customer Rating </span>
+                    Express
+                  </span>
+                  <span class="block text-13 md:text-sm"> Service </span>
                 </div>
               </div>
-              <h2
-                class="text-xl md:text-2xl lg:text-3xl leading-[1.2] mb-[15px] md:mb-[20px] mt-[25px] md:mt-[30px] lg:mt-[35px] xl:mt-[40px]"
+            </div>
+            <div
+              class="group bg-white dark:bg-black rounded-[15px] p-[20px] md:p-[25px] lg:p-[30px] shadow-[0_0_200px_rgba(13,20,22,0.1)] dark:shadow-none"
+            >
+              <h3
+                class="text-base md:text-lg lg:text-xl leading-[1.2] mb-[15px] md:mb-[20px]"
               >
-                Customer Reviews
-              </h2>
-              <div
-                class="border border-[#D9D9D9] dark:border-white/10 rounded-[10px] p-[20px] md:p-[25px] lg:p-[30px] mb-[10px] last:mb-0 ltr:border-l-[4px] rtl:border-r-[4px] ltr:!border-l-primary rtl:!border-r-primary"
+                <a href="vehicle-details.html" class="hover:text-primary">
+                  Beverly Center
+                </a>
+              </h3>
+              <a
+                href="vehicle-details.html"
+                class="block overflow-hidden rounded-[15px] mb-[15px] md:mb-[20px]"
               >
-                <div class="flex items-center justify-between mb-[12px]">
-                  <h3
-                    class="mb-0 text-base md:text-lg lg:text-xl leading-[1.2]"
+                <img
+                  src="assets/images/locations/location3.jpg"
+                  class="rounded-[15px] transition-all duration-300 ease-in-out group-hover:scale-110"
+                  alt="location-image"
+                />
+              </a>
+              <ul class="mb-[15px] md:mb-[20px]">
+                <li class="flex items-center gap-[12px] mb-[15px] last:mb-0">
+                  <div
+                    class="flex items-center justify-center flex-none w-[40px] h-[40px] rounded-[10px] bg-[#EFEFF0] dark:bg-dark text-primary text-xl"
                   >
-                    Michael Thompson
-                  </h3>
-                  <span class="block"> January 15, 2026 </span>
-                </div>
-                <p>
-                  Patrick provided exceptional service during our corporate
-                  event. He was punctual, professional, and went above and
-                  beyond to ensure our executives had a seamless experience.
-                  Highly recommended!
-                </p>
-              </div>
-              <div
-                class="border border-[#D9D9D9] dark:border-white/10 rounded-[10px] p-[20px] md:p-[25px] lg:p-[30px] mb-[10px] last:mb-0 ltr:border-l-[4px] rtl:border-r-[4px] ltr:!border-l-primary rtl:!border-r-primary"
-              >
-                <div class="flex items-center justify-between mb-[12px]">
-                  <h3
-                    class="mb-0 text-base md:text-lg lg:text-xl leading-[1.2]"
+                    <i class="ri-map-pin-4-line"></i>
+                  </div>
+                  <div>
+                    <span
+                      class="block leading-[1.2] font-bold text-black dark:text-white mb-[4px]"
+                    >
+                      West Hollywood
+                    </span>
+                    <span class="block text-13 md:text-sm">
+                      8500 Beverly Blvd, Los Angeles, CA 90048
+                    </span>
+                  </div>
+                </li>
+                <li class="flex items-center gap-[12px] mb-[15px] last:mb-0">
+                  <div
+                    class="flex items-center justify-center flex-none w-[40px] h-[40px] rounded-[10px] bg-[#EFEFF0] dark:bg-dark text-primary text-xl"
                   >
-                    Robert Johnson
-                  </h3>
-                  <span class="block"> January 10, 2026 </span>
-                </div>
-                <p>
-                  I've used Patrick's services multiple times for airport
-                  transfers. He's always on time, the car is spotless, and he's
-                  very knowledgeable about the best routes. A true professional!
-                </p>
-              </div>
-              <div
-                class="border border-[#D9D9D9] dark:border-white/10 rounded-[10px] p-[20px] md:p-[25px] lg:p-[30px] mb-[10px] last:mb-0 ltr:border-l-[4px] rtl:border-r-[4px] ltr:!border-l-primary rtl:!border-r-primary"
-              >
-                <div class="flex items-center justify-between mb-[12px]">
-                  <h3
-                    class="mb-0 text-base md:text-lg lg:text-xl leading-[1.2]"
+                    <i class="ri-time-line"></i>
+                  </div>
+                  <div>
+                    <span
+                      class="block leading-[1.2] font-bold text-black dark:text-white mb-[4px]"
+                    >
+                      24/7 Kiosk Available
+                    </span>
+                    <span class="block text-13 md:text-sm">
+                      Staffed 8:00 AM - 10:00 PM
+                    </span>
+                  </div>
+                </li>
+                <li class="flex items-center gap-[12px] mb-[15px] last:mb-0">
+                  <div
+                    class="flex items-center justify-center flex-none w-[40px] h-[40px] rounded-[10px] bg-[#EFEFF0] dark:bg-dark text-primary text-xl"
                   >
-                    Sarah Chen
-                  </h3>
-                  <span class="block"> January 8, 2026 </span>
+                    <i class="ri-parking-box-line"></i>
+                  </div>
+                  <div>
+                    <span
+                      class="block leading-[1.2] font-bold text-black dark:text-white mb-[4px]"
+                    >
+                      Free Validation
+                    </span>
+                    <span class="block text-13 md:text-sm">
+                      3 hours free parking with rental
+                    </span>
+                  </div>
+                </li>
+              </ul>
+              <div class="flex flex-wrap justify-between text-center">
+                <div>
+                  <span
+                    class="block font-medium text-base md:text-lg lg:text-xl leading-none text-black dark:text-white mb-[4px]"
+                  >
+                    4.7
+                  </span>
+                  <span class="block text-13 md:text-sm"> Rating </span>
                 </div>
-                <p>
-                  Patrick drove us for our wedding day and made everything so
-                  stress-free. He arrived early, helped with our belongings, and
-                  ensured we arrived at each location perfectly on schedule.
-                </p>
+                <div>
+                  <span
+                    class="block font-medium text-base md:text-lg lg:text-xl leading-none text-black dark:text-white mb-[4px]"
+                  >
+                    3 min
+                  </span>
+                  <span class="block text-13 md:text-sm"> Wait Time </span>
+                </div>
+                <div>
+                  <span
+                    class="block font-medium text-base md:text-lg lg:text-xl leading-none text-black dark:text-white mb-[4px]"
+                  >
+                    Kiosk
+                  </span>
+                  <span class="block text-13 md:text-sm"> 24/7 </span>
+                </div>
               </div>
             </div>
           </div>
         </div>
       </div>
-      <!-- End Driver Details -->
+      <!-- End Popular Rental Locations -->
+
+      <!-- Find A Location Near You -->
+      <div class="container">
+        <div
+          class="bg-[#F4F4F4] dark:bg-black rounded-[15px] p-[20px] md:p-[25px] lg:p-[30px]"
+          data-cue="slideInUp"
+        >
+          <div class="grid grid-cols-1 lg:grid-cols-3 gap-[25px]">
+            <div class="lg:col-span-2">
+              <h3
+                class="text-xl md:text-2xl lg:text-3xl leading-[1.2] mb-[20px] lg:mb-[25px]"
+              >
+                Find a Location Near You
+              </h3>
+              <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d193597.89492332606!2d-74.2913176542922!3d40.69672204394405!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY%2C%20USA!5e0!3m2!1sen!2sbd!4v1768286032576!5m2!1sen!2sbd"
+                class="w-full h-[360px] md:h-[460px] rounded-[15px] border-0"
+                allowfullscreen
+                loading="lazy"
+                referrerpolicy="no-referrer-when-downgrade"
+              ></iframe>
+            </div>
+            <div class="lg:col-span-1">
+              <form
+                action="locations.html#"
+                class="relative mb-[20px] lg:mb-[28px]"
+              >
+                <input
+                  type="text"
+                  class="border-b border-[#CCCCCC] dark:border-white/10 block w-full outline-0 text-black dark:text-white bg-transparent placeholder:text-body dark:placeholder:text-white/70 pb-[8px]"
+                  placeholder="Search for a city or airport"
+                />
+                <button
+                  type="submit"
+                  class="absolute ltr:right-0 rtl:left-0 bottom-[8px] text-xl inline-block"
+                >
+                  <i class="ri-search-line"></i>
+                </button>
+              </form>
+              <div
+                class="scrollbar overflow-y-auto h-[360px] md:h-[460px] ltr:pr-[10px] rtl:pl-[10px] ltr:md:pr-[15px] rtl:md:pl-[15px]"
+              >
+                <div
+                  class="p-[15px] md:p-[20px] border border-[#CCCCCC] dark:border-white/10 rounded-[10px] bg-white dark:bg-dark mb-[10px] last:mb-0"
+                >
+                  <h3
+                    class="text-base md:text-lg lg:text-xl leading-[1.2] mb-[12px]"
+                  >
+                    New York City
+                  </h3>
+                  <span
+                    class="block relative ltr:pl-[30px] rtl:pr-[30px] mb-[11px]"
+                  >
+                    <i
+                      class="ri-map-pin-fill font-normal text-black dark:text-white absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                    ></i>
+                    Metro Area & Airports
+                  </span>
+                  <ul class="flex flex-wrap gap-[8px] md:gap-x-[20px]">
+                    <li
+                      class="text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px]"
+                    >
+                      <i
+                        class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                      ></i>
+                      24/7 Service
+                    </li>
+                    <li
+                      class="text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px]"
+                    >
+                      <i
+                        class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                      ></i>
+                      Executive Fleet
+                    </li>
+                    <li
+                      class="text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px]"
+                    >
+                      <i
+                        class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                      ></i>
+                      Free Wi-Fi
+                    </li>
+                  </ul>
+                </div>
+                <div
+                  class="p-[15px] md:p-[20px] border border-[#CCCCCC] dark:border-white/10 rounded-[10px] bg-white dark:bg-dark mb-[10px] last:mb-0"
+                >
+                  <h3
+                    class="text-base md:text-lg lg:text-xl leading-[1.2] mb-[12px]"
+                  >
+                    Los Angeles
+                  </h3>
+                  <span
+                    class="block relative ltr:pl-[30px] rtl:pr-[30px] mb-[11px]"
+                  >
+                    <i
+                      class="ri-map-pin-fill font-normal text-black dark:text-white absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                    ></i>
+                    Metro Area & Airports
+                  </span>
+                  <ul class="flex flex-wrap gap-[8px] md:gap-x-[20px]">
+                    <li
+                      class="text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px]"
+                    >
+                      <i
+                        class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                      ></i>
+                      24/7 Service
+                    </li>
+                    <li
+                      class="text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px]"
+                    >
+                      <i
+                        class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                      ></i>
+                      Luxury Fleet
+                    </li>
+                    <li
+                      class="text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px]"
+                    >
+                      <i
+                        class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                      ></i>
+                      Event Specialists
+                    </li>
+                  </ul>
+                </div>
+                <div
+                  class="p-[15px] md:p-[20px] border border-[#CCCCCC] dark:border-white/10 rounded-[10px] bg-white dark:bg-dark mb-[10px] last:mb-0"
+                >
+                  <h3
+                    class="text-base md:text-lg lg:text-xl leading-[1.2] mb-[12px]"
+                  >
+                    Chicago
+                  </h3>
+                  <span
+                    class="block relative ltr:pl-[30px] rtl:pr-[30px] mb-[11px]"
+                  >
+                    <i
+                      class="ri-map-pin-fill font-normal text-black dark:text-white absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                    ></i>
+                    Metro Area & Airports
+                  </span>
+                  <ul class="flex flex-wrap gap-[8px] md:gap-x-[20px]">
+                    <li
+                      class="text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px]"
+                    >
+                      <i
+                        class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                      ></i>
+                      24/7 Service
+                    </li>
+                    <li
+                      class="text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px]"
+                    >
+                      <i
+                        class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                      ></i>
+                      Corporate Focus
+                    </li>
+                    <li
+                      class="text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px]"
+                    >
+                      <i
+                        class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                      ></i>
+                      Multi-Lingual
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- End Find A Location Near You -->
+
+      <!-- Cities We Serve -->
+      <div class="py-[60px] md:py-[80px] lg:py-[100px] xl:py-[120px]">
+        <div
+          class="container"
+          data-cues="slideInUp"
+          data-group="citiesWeServeContent"
+        >
+          <div class="text-center mb-[30px] md:mb-[35px] lg:mb-[40px]">
+            <h2 class="mb-0 text-xl md:text-2xl lg:text-3xl leading-[1.2]">
+              Cities We Serve
+            </h2>
+          </div>
+          <div
+            class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-[25px]"
+          >
+            <div
+              class="text-center rounded-[10px] p-[20px] md:p-[25px] lg:p-[30px] border border-[#D9D9D9] dark:border-white/10"
+            >
+              <h3
+                class="text-base md:text-lg lg:text-xl leading-[1.2] mb-[7px]"
+              >
+                New York
+              </h3>
+              <span class="block"> 50+ Vehicles </span>
+            </div>
+            <div
+              class="text-center rounded-[10px] p-[20px] md:p-[25px] lg:p-[30px] border border-[#D9D9D9] dark:border-white/10"
+            >
+              <h3
+                class="text-base md:text-lg lg:text-xl leading-[1.2] mb-[7px]"
+              >
+                Los Angeles
+              </h3>
+              <span class="block"> 45+ Vehicles </span>
+            </div>
+            <div
+              class="text-center rounded-[10px] p-[20px] md:p-[25px] lg:p-[30px] border border-[#D9D9D9] dark:border-white/10"
+            >
+              <h3
+                class="text-base md:text-lg lg:text-xl leading-[1.2] mb-[7px]"
+              >
+                Chicago
+              </h3>
+              <span class="block"> 35+ Vehicles </span>
+            </div>
+            <div
+              class="text-center rounded-[10px] p-[20px] md:p-[25px] lg:p-[30px] border border-[#D9D9D9] dark:border-white/10"
+            >
+              <h3
+                class="text-base md:text-lg lg:text-xl leading-[1.2] mb-[7px]"
+              >
+                Miami
+              </h3>
+              <span class="block"> 30+ Vehicles </span>
+            </div>
+            <div
+              class="text-center rounded-[10px] p-[20px] md:p-[25px] lg:p-[30px] border border-[#D9D9D9] dark:border-white/10"
+            >
+              <h3
+                class="text-base md:text-lg lg:text-xl leading-[1.2] mb-[7px]"
+              >
+                San Francisco
+              </h3>
+              <span class="block"> 25+ Vehicles </span>
+            </div>
+            <div
+              class="text-center rounded-[10px] p-[20px] md:p-[25px] lg:p-[30px] border border-[#D9D9D9] dark:border-white/10"
+            >
+              <h3
+                class="text-base md:text-lg lg:text-xl leading-[1.2] mb-[7px]"
+              >
+                Boston
+              </h3>
+              <span class="block"> 20+ Vehicles </span>
+            </div>
+            <div
+              class="text-center rounded-[10px] p-[20px] md:p-[25px] lg:p-[30px] border border-[#D9D9D9] dark:border-white/10"
+            >
+              <h3
+                class="text-base md:text-lg lg:text-xl leading-[1.2] mb-[7px]"
+              >
+                Washington DC
+              </h3>
+              <span class="block"> 25+ Vehicles </span>
+            </div>
+            <div
+              class="text-center rounded-[10px] p-[20px] md:p-[25px] lg:p-[30px] border border-[#D9D9D9] dark:border-white/10"
+            >
+              <h3
+                class="text-base md:text-lg lg:text-xl leading-[1.2] mb-[7px]"
+              >
+                Las Vegas
+              </h3>
+              <span class="block"> 30+ Vehicles </span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- End Cities We Serve -->
+
+      <!-- CTA -->
+      <div class="container">
+        <div
+          class="px-[20px] md:px-[40px] lg:px-[60px] xl:px-[100px] pt-[140px] md:pt-[280px] lg:pt-[240px] pb-[40px] md:pb-[60px] lg:pb-[80px] xl:pb-[100px] rounded-[15px] bg-black text-white/70 bg-cover bg-center bg-no-repeat"
+          style="background-image: url(assets/images/bg-images/bg-image6.jpg)"
+          data-cue="slideInUp"
+        >
+          <div
+            class="grid grid-cols-1 lg:grid-cols-2 gap-[20px] md:gap-[25px] items-center"
+          >
+            <div>
+              <h2
+                class="!text-white mb-[10px] text-xl md:text-2xl lg:text-3xl leading-[1.2]"
+              >
+                Can't find your location?
+              </h2>
+              <p>
+                We're constantly expanding! Contact us to suggest a new location
+                or check if we have plans for your area.
+              </p>
+            </div>
+            <div class="ltr:lg:text-right rtl:lg:text-left">
+              <a href="contact.html" class="primary-btn group">
+                <span> Request a New Location </span>
+                <i class="ri-map-pin-line"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- End CTA -->
+
+      <!-- Funfacts -->
+      <div class="py-[60px] md:py-[80px] lg:py-[100px] xl:py-[120px]">
+        <div class="container">
+          <div
+            class="grid grid-cols-2 md:grid-cols-4 gap-[25px]"
+            data-cues="slideInUp"
+            data-group="funfactsContent"
+          >
+            <div>
+              <div
+                class="leading-none font-medium text-[50px] md:text-[70px] lg:text-[110px] mb-[5px] text-black dark:text-white"
+              >
+                25<span
+                  class="font-normal text-4xl md:text-6xl text-body dark:text-white/70"
+                  >+</span
+                >
+              </div>
+              <span class="block"> Happy Customers </span>
+            </div>
+            <div>
+              <div
+                class="leading-none font-medium text-[50px] md:text-[70px] lg:text-[110px] mb-[5px] text-black dark:text-white"
+              >
+                15<span
+                  class="font-normal text-4xl md:text-6xl text-body dark:text-white/70"
+                  >+</span
+                >
+              </div>
+              <span class="block"> Major Airports </span>
+            </div>
+            <div>
+              <div
+                class="leading-none font-medium text-[50px] md:text-[70px] lg:text-[110px] mb-[5px] text-black dark:text-white"
+              >
+                300<span
+                  class="font-normal text-4xl md:text-6xl text-body dark:text-white/70"
+                  >+</span
+                >
+              </div>
+              <span class="block"> Professional Drivers </span>
+            </div>
+            <div>
+              <div
+                class="leading-none font-medium text-[50px] md:text-[70px] lg:text-[110px] mb-[5px] text-black dark:text-white"
+              >
+                24/7
+              </div>
+              <span class="block"> Service Availability </span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- End Funfacts -->
 
       <!-- Download Our App -->
       <div class="py-[30px] md:py-[40px] lg:py-[50px] bg-primary text-white">
@@ -1606,7 +1966,7 @@
               </h3>
               <div class="flex flex-wrap items-center gap-[10px]">
                 <a
-                  href="driver-details.html#"
+                  href="locations.html#"
                   target="_blank"
                   class="inline-block relative border border-white/30 bg-[#171E20] rounded-[5px] py-[10px] ltr:pr-[18px] rtl:pl-[18px] ltr:pl-[57px] rtl:pr-[57px] hover:border-white"
                 >
@@ -1623,7 +1983,7 @@
                   </span>
                 </a>
                 <a
-                  href="driver-details.html#"
+                  href="locations.html#"
                   target="_blank"
                   class="inline-block relative border border-white/30 bg-[#171E20] rounded-[5px] py-[10px] ltr:pr-[18px] rtl:pl-[18px] ltr:pl-[57px] rtl:pr-[57px] hover:border-white"
                 >
@@ -1668,28 +2028,28 @@
             </p>
             <div class="flex items-center gap-[10px] mt-[20px] lg:mt-[25px]">
               <a
-                href="driver-details.html#"
+                href="locations.html#"
                 class="flex items-center justify-center text-white w-[35px] md:w-[40px] h-[35px] md:h-[40px] border border-[#292F31] rounded-full hover:bg-primary hover:border-primary"
                 target="_blank"
               >
                 <i class="ri-facebook-fill"></i>
               </a>
               <a
-                href="driver-details.html#"
+                href="locations.html#"
                 class="flex items-center justify-center text-white w-[35px] md:w-[40px] h-[35px] md:h-[40px] border border-[#292F31] rounded-full hover:bg-primary hover:border-primary"
                 target="_blank"
               >
                 <i class="ri-twitter-x-fill"></i>
               </a>
               <a
-                href="driver-details.html#"
+                href="locations.html#"
                 class="flex items-center justify-center text-white w-[35px] md:w-[40px] h-[35px] md:h-[40px] border border-[#292F31] rounded-full hover:bg-primary hover:border-primary"
                 target="_blank"
               >
                 <i class="ri-linkedin-fill"></i>
               </a>
               <a
-                href="driver-details.html#"
+                href="locations.html#"
                 class="flex items-center justify-center text-white w-[35px] md:w-[40px] h-[35px] md:h-[40px] border border-[#292F31] rounded-full hover:bg-primary hover:border-primary"
                 target="_blank"
               >
@@ -1720,7 +2080,7 @@
                     href="pricing.html"
                     class="text-[#d9d9d9] hover:text-primary"
                   >
-                    Pricing plan
+                    
                   </a>
                 </li>
                 <li class="mb-[8px] last:mb-0">
@@ -1758,7 +2118,7 @@
               <ul>
                 <li class="mb-[8px] last:mb-0">
                   <a
-                    href="driver-details.html#"
+                    href="locations.html#"
                     target="_blank"
                     class="text-[#d9d9d9] hover:text-primary"
                   >
@@ -1767,7 +2127,7 @@
                 </li>
                 <li class="mb-[8px] last:mb-0">
                   <a
-                    href="driver-details.html#"
+                    href="locations.html#"
                     target="_blank"
                     class="text-[#d9d9d9] hover:text-primary"
                   >
@@ -1776,7 +2136,7 @@
                 </li>
                 <li class="mb-[8px] last:mb-0">
                   <a
-                    href="driver-details.html#"
+                    href="locations.html#"
                     target="_blank"
                     class="text-[#d9d9d9] hover:text-primary"
                   >
@@ -1785,7 +2145,7 @@
                 </li>
                 <li class="mb-[8px] last:mb-0">
                   <a
-                    href="driver-details.html#"
+                    href="locations.html#"
                     target="_blank"
                     class="text-[#d9d9d9] hover:text-primary"
                   >
@@ -1794,7 +2154,7 @@
                 </li>
                 <li class="mb-[8px] last:mb-0">
                   <a
-                    href="driver-details.html#"
+                    href="locations.html#"
                     target="_blank"
                     class="text-[#d9d9d9] hover:text-primary"
                   >
@@ -1828,12 +2188,12 @@
                 >
                   Email:
                   <a
-                    href="https://templates.arxionlabs.com/cdn-cgi/l/email-protection#6c04090000032c1e0902181d420f0301"
+                    href="https://templates.arxionlabs.com/cdn-cgi/l/email-protection#076f626b6b684775626973762964686a"
                     class="font-bold md:text-lg lg:text-xl text-primary hover:underline"
                   >
                     <span
                       class="__cf_email__"
-                      data-cfemail="3c54595050537c4e5952484d125f5351"
+                      data-cfemail="90f8f5fcfcffd0e2f5fee4e1bef3fffd"
                       >[email&#160;protected]</span
                     >
                   </a>
@@ -1843,7 +2203,7 @@
                 >
                   Address:
                   <a
-                    href="driver-details.html#"
+                    href="locations.html#"
                     target="_blank"
                     class="font-semibold text-white hover:text-primary"
                   >
@@ -1917,7 +2277,7 @@
           if (b) {
             var d = b.createElement("script");
             d.innerHTML =
-              "window.__CF$cv$params={r:'9d5f1e4efccca7e0',t:'MTc3MjQ0MTA1NA=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";
+              "window.__CF$cv$params={r:'9d5f1e5eeff3a7e0',t:'MTc3MjQ0MTA1Nw=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";
             b.getElementsByTagName("head")[0].appendChild(d);
           }
         }

@@ -43,9 +43,9 @@
             <div class="container lg:!max-w-full 2xl:!max-w-[1620px]">
                 <div class="grid grid-cols-1 lg:grid-cols-2 items-center gap-[8px] md:gap-[10px] lg:gap-[25px]">
                     <div class="flex flex-wrap justify-center lg:justify-start items-center gap-[8px] md:gap-[15px] xl:gap-[25px] font-medium">
-                        <a href="https://templates.arxionlabs.com/cdn-cgi/l/email-protection#4a222f2626253d0a382f243e3b64292527" class="inline-block relative ltr:pl-[20px] rtl:pr-[20px] ltr:md:pl-[23px] rtl:md:pr-[23px] hover:text-white/80">
+                        <a href="https://templates.arxionlabs.com/cdn-cgi/l/email-protection#325a575e5e5d457240575c46431c515d5f" class="inline-block relative ltr:pl-[20px] rtl:pr-[20px] ltr:md:pl-[23px] rtl:md:pr-[23px] hover:text-white/80">
                             <i class="ri-mail-line font-normal absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0"></i>
-                            <span class="__cf_email__" data-cfemail="a4ccc1c8c8cbd3e4d6c1cad0d58ac7cbc9">[email&#160;protected]</span>
+                            <span class="__cf_email__" data-cfemail="96fef3fafaf9e1d6e4f3f8e2e7b8f5f9fb">[email&#160;protected]</span>
                         </a>
                         <span class="inline-block relative ltr:pl-[20px] rtl:pr-[20px] ltr:md:pl-[23px] rtl:md:pr-[23px]">
                             <i class="ri-time-line font-normal absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0"></i>
@@ -199,6 +199,7 @@
                   </li>
                 </ul> -->
               </li>
+
               <li class="nav-item relative">
                 <a
                   href="services.html"
@@ -260,6 +261,8 @@
                   </li>
                 </ul> 
               </li>
+              
+
               <li class="nav-item relative">
                 <a
                   href="javascript:void(0);"
@@ -281,7 +284,7 @@
                   <li class="nav-item relative mb-[17px] last:mb-0">
                     <a
                       href="drivers.html"
-                      class="nav-link dropdown-toggle active font-medium relative text-black dark:text-white px-[25px] block hover:text-primary"
+                      class="nav-link dropdown-toggle font-medium relative text-black dark:text-white px-[25px] block hover:text-primary"
                     >
                       Drivers
                     </a>
@@ -292,7 +295,7 @@
                       <li class="nav-item relative mb-[17px] last:mb-0">
                         <a
                           href="drivers.html"
-                          class="nav-link active font-medium relative text-black dark:text-white px-[25px] block hover:text-primary"
+                          class="nav-link font-medium relative text-black dark:text-white px-[25px] block hover:text-primary"
                         >
                           Drivers
                         </a>
@@ -320,13 +323,13 @@
                       href="pricing.html"
                       class="nav-link font-medium relative text-black dark:text-white px-[25px] block hover:text-primary"
                     >
-                      Pricing Plan
+                      
                     </a>
                   </li>
                   <li class="nav-item relative mb-[17px] last:mb-0">
                     <a
                       href="careers.html"
-                      class="nav-link dropdown-toggle font-medium relative text-black dark:text-white px-[25px] block hover:text-primary"
+                      class="nav-link dropdown-toggle active font-medium relative text-black dark:text-white px-[25px] block hover:text-primary"
                     >
                       Careers
                     </a>
@@ -337,7 +340,7 @@
                       <li class="nav-item relative mb-[17px] last:mb-0">
                         <a
                           href="careers.html"
-                          class="nav-link font-medium relative text-black dark:text-white px-[25px] block hover:text-primary"
+                          class="nav-link active font-medium relative text-black dark:text-white px-[25px] block hover:text-primary"
                         >
                           Careers
                         </a>
@@ -591,7 +594,7 @@
                   id="searchBox"
                   class="absolute mt-[10px] top-full ltr:right-0 rtl:left-0 w-[380px] xl:w-[420px] bg-white dark:bg-black p-[20px] md:p-[25px] lg:p-[30px] invisible opacity-0 transition-all duration-300 ease-in-out shadow-[0_8px_24px_rgba(149,157,165,0.2)] dark:shadow-none"
                 >
-                  <form action="drivers.html#" class="relative">
+                  <form action="careers.html#" class="relative">
                     <input
                       type="text"
                       class="form-input dark:!bg-dark"
@@ -792,7 +795,7 @@
               <li class="nav-item px-[20px] mb-[15px] last:mb-0">
                 <a
                   href="drivers.html"
-                  class="nav-link dropdown-toggle active relative font-medium block text-base text-black dark:text-white hover:text-primary"
+                  class="nav-link dropdown-toggle relative font-medium block text-base text-black dark:text-white hover:text-primary"
                 >
                   Drivers
                 </a>
@@ -802,7 +805,7 @@
                   <li class="nav-item px-[20px] mb-[15px] last:mb-0">
                     <a
                       href="drivers.html"
-                      class="nav-link active relative font-medium block text-base text-black dark:text-white hover:text-primary"
+                      class="nav-link relative font-medium block text-base text-black dark:text-white hover:text-primary"
                     >
                       Drivers
                     </a>
@@ -830,13 +833,13 @@
                   href="pricing.html"
                   class="nav-link relative font-medium block text-base text-black dark:text-white hover:text-primary"
                 >
-                  Pricing Plan
+                  
                 </a>
               </li>
               <li class="nav-item px-[20px] mb-[15px] last:mb-0">
                 <a
                   href="careers.html"
-                  class="nav-link dropdown-toggle relative font-medium block text-base text-black dark:text-white hover:text-primary"
+                  class="nav-link dropdown-toggle active relative font-medium block text-base text-black dark:text-white hover:text-primary"
                 >
                   Careers
                 </a>
@@ -846,7 +849,7 @@
                   <li class="nav-item px-[20px] mb-[15px] last:mb-0">
                     <a
                       href="careers.html"
-                      class="nav-link relative font-medium block text-base text-black dark:text-white hover:text-primary"
+                      class="nav-link active relative font-medium block text-base text-black dark:text-white hover:text-primary"
                     >
                       Careers
                     </a>
@@ -1103,12 +1106,12 @@
           <li class="mb-[5px] last:mb-0 flex items-center flex-wrap gap-[5px]">
             Email:
             <a
-              href="https://templates.arxionlabs.com/cdn-cgi/l/email-protection#bbd3ded7d7d4fbc9ded5cfca95d8d4d6"
+              href="https://templates.arxionlabs.com/cdn-cgi/l/email-protection#6c04090000032c1e0902181d420f0301"
               class="font-bold md:text-lg lg:text-xl text-primary hover:underline"
             >
               <span
                 class="__cf_email__"
-                data-cfemail="fe969b929291be8c9b908a8fd09d9193"
+                data-cfemail="bed6dbd2d2d1feccdbd0cacf90ddd1d3"
                 >[email&#160;protected]</span
               >
             </a>
@@ -1116,7 +1119,7 @@
           <li class="mb-[5px] last:mb-0 flex items-center flex-wrap gap-[5px]">
             Address:
             <a
-              href="drivers.html#"
+              href="careers.html#"
               target="_blank"
               class="font-semibold hover:text-primary"
             >
@@ -1130,7 +1133,7 @@
         <ul>
           <li class="mb-[7px] md:mb-[10px] last:mb-0">
             <a
-              href="drivers.html#"
+              href="careers.html#"
               target="_blank"
               class="group text-black dark:text-white flex items-center gap-[10px]"
             >
@@ -1142,7 +1145,7 @@
           </li>
           <li class="mb-[7px] md:mb-[10px] last:mb-0">
             <a
-              href="drivers.html#"
+              href="careers.html#"
               target="_blank"
               class="group text-black dark:text-white flex items-center gap-[10px]"
             >
@@ -1154,7 +1157,7 @@
           </li>
           <li class="mb-[7px] md:mb-[10px] last:mb-0">
             <a
-              href="drivers.html#"
+              href="careers.html#"
               target="_blank"
               class="group text-black dark:text-white flex items-center gap-[10px]"
             >
@@ -1166,7 +1169,7 @@
           </li>
           <li class="mb-[7px] md:mb-[10px] last:mb-0">
             <a
-              href="drivers.html#"
+              href="careers.html#"
               target="_blank"
               class="group text-black dark:text-white flex items-center gap-[10px]"
             >
@@ -1190,7 +1193,7 @@
             0
           </span>
         </a>
-        <form action="drivers.html#" class="relative flex-1">
+        <form action="careers.html#" class="relative flex-1">
           <input
             type="text"
             class="form-input dark:!bg-dark"
@@ -1219,7 +1222,7 @@
           <h2
             class="mb-[8px] text-[34px] md:text-[44px] lg:text-[54px] xl:text-[64px] leading-[1.2] xl:max-w-[985px]"
           >
-            Our Drivers
+            Careers
           </h2>
           <ul
             class="flex flex-wrap items-center justify-center lg:justify-start gap-[10px] md:gap-[15px]"
@@ -1237,7 +1240,7 @@
                 class="block w-px h-[15px] bg-black dark:bg-white ltr:rotate-[15deg] rtl:rotate-[-15deg] mt-px"
               ></span>
             </li>
-            <li>Drivers</li>
+            <li>Careers</li>
           </ul>
           <div
             class="absolute bottom-0 ltr:right-0 rtl:left-0 bg-white dark:bg-dark ltr:rounded-tl-[15px] rtl:rounded-tr-[15px] py-[25px] px-[50px] hidden lg:block"
@@ -1254,263 +1257,158 @@
       </div>
       <!-- End Page Banner -->
 
-      <!-- Drivers -->
+      <!-- Funfacts -->
       <div class="py-[60px] md:py-[80px] lg:py-[100px] xl:py-[120px]">
         <div
           class="container"
           data-cues="slideInUp"
-          data-group="driversContent"
+          data-group="funfactContent"
         >
           <div
-            class="text-center lg:max-w-[875px] mx-auto mb-[30px] md:mb-[35px] lg:mb-[40px]"
+            class="text-center xl:max-w-[1100px] mx-auto mb-[30px] md:mb-[35px] lg:mb-[40px]"
           >
             <span class="block font-bold text-primary mb-[10px]">
-              Professional Chauffeurs
+              ASIA MAX Careers
             </span>
             <h2 class="mb-0 text-xl md:text-2xl lg:text-3xl leading-[1.2]">
-              Our carefully selected drivers are the heart of ASIA MAX. Each
-              professional is trained to deliver exceptional service with
-              safety, courtesy, and expertise.
+              Be part of a dynamic team revolutionizing luxury transportation.
+              At ASIA MAX, we're not just hiring employees - we're building the
+              future of premium mobility.
             </h2>
           </div>
+          <div class="grid grid-cols-2 md:grid-cols-4 gap-[25px]">
+            <div>
+              <div
+                class="leading-none font-medium text-[50px] md:text-[70px] lg:text-[110px] mb-[5px] text-black dark:text-white"
+              >
+                25<span
+                  class="font-normal text-4xl md:text-6xl text-body dark:text-white/70"
+                  >+</span
+                >
+              </div>
+              <span class="block"> Happy Customers </span>
+            </div>
+            <div>
+              <div
+                class="leading-none font-medium text-[50px] md:text-[70px] lg:text-[110px] mb-[5px] text-black dark:text-white"
+              >
+                15<span
+                  class="font-normal text-4xl md:text-6xl text-body dark:text-white/70"
+                  >+</span
+                >
+              </div>
+              <span class="block"> Major Airports </span>
+            </div>
+            <div>
+              <div
+                class="leading-none font-medium text-[50px] md:text-[70px] lg:text-[110px] mb-[5px] text-black dark:text-white"
+              >
+                300<span
+                  class="font-normal text-4xl md:text-6xl text-body dark:text-white/70"
+                  >+</span
+                >
+              </div>
+              <span class="block"> Professional Drivers </span>
+            </div>
+            <div>
+              <div
+                class="leading-none font-medium text-[50px] md:text-[70px] lg:text-[110px] mb-[5px] text-black dark:text-white"
+              >
+                24/7
+              </div>
+              <span class="block"> Service Availability </span>
+            </div>
+          </div>
           <div
-            class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-[25px]"
+            class="border-t border-[#ECECEC] dark:border-white/10 mt-[30px] md:mt-[35px] lg:mt-[40px]"
+          ></div>
+        </div>
+      </div>
+      <!-- End Funfacts -->
+
+      <!-- Why Work At ASIA MAX -->
+      <div class="pb-[60px] md:pb-[80px] lg:pb-[100px] xl:pb-[120px]">
+        <div class="container">
+          <div
+            class="grid grid-cols-1 lg:grid-cols-2 items-center gap-[25px] xl:gap-[80px]"
+            data-cues="slideInUp"
+            data-group="whyWorkAtASIA MAXContent"
           >
-            <div class="group overflow-hidden relative rounded-[15px]">
+            <div class="text-center rounded-[15px]">
               <img
-                src="assets/images/drivers/driver1.jpg"
-                class="rounded-[15px] transition-all duration-500 ease-in-out group-hover:scale-110"
-                alt="driver-image"
+                src="assets/images/girl-with-key.jpg"
+                class="rounded-[15px]"
+                alt="girl-with-key"
               />
-              <div
-                class="absolute left-0 right-0 bottom-0 z-[1] p-[20px] md:p-[25px] lg:p-[30px] flex items-center justify-between"
-              >
-                <div>
-                  <h3
-                    class="!text-white mb-[5px] text-base md:text-lg lg:text-xl leading-[1.2]"
-                  >
-                    <a href="driver-details.html" class="hover:text-primary">
-                      Patrick Akers
-                    </a>
-                  </h3>
-                  <span class="text-white"> Executive Chauffeur </span>
-                </div>
-                <div>
-                  <span
-                    class="inline-block text-13 md:text-sm bg-primary text-white rounded-[30px] py-px px-[8px]"
-                  >
-                    4.9 (128 reviews)
-                  </span>
-                </div>
-              </div>
-              <div
-                class="absolute inset-0 rounded-[15px]"
-                style="
-                  background: linear-gradient(
-                    180deg,
-                    rgba(13, 20, 22, 0) 50%,
-                    rgba(13, 20, 22, 0.9) 100%
-                  );
-                "
-              ></div>
             </div>
-            <div class="group overflow-hidden relative rounded-[15px]">
-              <img
-                src="assets/images/drivers/driver2.jpg"
-                class="rounded-[15px] transition-all duration-500 ease-in-out group-hover:scale-110"
-                alt="driver-image"
-              />
-              <div
-                class="absolute left-0 right-0 bottom-0 z-[1] p-[20px] md:p-[25px] lg:p-[30px] flex items-center justify-between"
+            <div>
+              <h2
+                class="mb-[20px] md:mb-[25px] text-xl md:text-2xl lg:text-3xl leading-[1.2]"
               >
-                <div>
-                  <h3
-                    class="!text-white mb-[5px] text-base md:text-lg lg:text-xl leading-[1.2]"
-                  >
-                    <a href="driver-details.html" class="hover:text-primary">
-                      Crystal Thomas
-                    </a>
-                  </h3>
-                  <span class="text-white"> Events Chauffeur </span>
-                </div>
-                <div>
-                  <span
-                    class="inline-block text-13 md:text-sm bg-primary text-white rounded-[30px] py-px px-[8px]"
-                  >
-                    5.0 (94 reviews)
-                  </span>
-                </div>
+                Why Work at ASIA MAX?
+              </h2>
+              <div
+                class="border border-[#D9D9D9] dark:border-white/10 rounded-[10px] p-[20px] md:p-[25px] lg:p-[30px] mb-[10px] last:mb-0 ltr:border-l-[4px] rtl:border-r-[4px] ltr:!border-l-primary rtl:!border-r-primary"
+              >
+                <h3
+                  class="mb-[12px] text-base md:text-lg lg:text-xl leading-[1.2]"
+                >
+                  Competitive Compensation
+                </h3>
+                <p>
+                  We offer industry-leading salaries, performance bonuses, and
+                  comprehensive benefits packages for all team members.
+                </p>
               </div>
               <div
-                class="absolute inset-0 rounded-[15px]"
-                style="
-                  background: linear-gradient(
-                    180deg,
-                    rgba(13, 20, 22, 0) 50%,
-                    rgba(13, 20, 22, 0.9) 100%
-                  );
-                "
-              ></div>
-            </div>
-            <div class="group overflow-hidden relative rounded-[15px]">
-              <img
-                src="assets/images/drivers/driver3.jpg"
-                class="rounded-[15px] transition-all duration-500 ease-in-out group-hover:scale-110"
-                alt="driver-image"
-              />
-              <div
-                class="absolute left-0 right-0 bottom-0 z-[1] p-[20px] md:p-[25px] lg:p-[30px] flex items-center justify-between"
+                class="border border-[#D9D9D9] dark:border-white/10 rounded-[10px] p-[20px] md:p-[25px] lg:p-[30px] mb-[10px] last:mb-0 ltr:border-l-[4px] rtl:border-r-[4px] ltr:!border-l-primary rtl:!border-r-primary"
               >
-                <div>
-                  <h3
-                    class="!text-white mb-[5px] text-base md:text-lg lg:text-xl leading-[1.2]"
-                  >
-                    <a href="driver-details.html" class="hover:text-primary">
-                      Gail Hartley
-                    </a>
-                  </h3>
-                  <span class="text-white"> Corporate Chauffeur </span>
-                </div>
-                <div>
-                  <span
-                    class="inline-block text-13 md:text-sm bg-primary text-white rounded-[30px] py-px px-[8px]"
-                  >
-                    4.8 (156 reviews
-                  </span>
-                </div>
+                <h3
+                  class="mb-[12px] text-base md:text-lg lg:text-xl leading-[1.2]"
+                >
+                  Health & Wellness
+                </h3>
+                <p>
+                  Comprehensive medical, dental, and vision insurance, plus
+                  wellness programs and mental health support.
+                </p>
               </div>
               <div
-                class="absolute inset-0 rounded-[15px]"
-                style="
-                  background: linear-gradient(
-                    180deg,
-                    rgba(13, 20, 22, 0) 50%,
-                    rgba(13, 20, 22, 0.9) 100%
-                  );
-                "
-              ></div>
-            </div>
-            <div class="group overflow-hidden relative rounded-[15px]">
-              <img
-                src="assets/images/drivers/driver4.jpg"
-                class="rounded-[15px] transition-all duration-500 ease-in-out group-hover:scale-110"
-                alt="driver-image"
-              />
-              <div
-                class="absolute left-0 right-0 bottom-0 z-[1] p-[20px] md:p-[25px] lg:p-[30px] flex items-center justify-between"
+                class="border border-[#D9D9D9] dark:border-white/10 rounded-[10px] p-[20px] md:p-[25px] lg:p-[30px] mb-[10px] last:mb-0 ltr:border-l-[4px] rtl:border-r-[4px] ltr:!border-l-primary rtl:!border-r-primary"
               >
-                <div>
-                  <h3
-                    class="!text-white mb-[5px] text-base md:text-lg lg:text-xl leading-[1.2]"
-                  >
-                    <a href="driver-details.html" class="hover:text-primary">
-                      Corey Ochoa
-                    </a>
-                  </h3>
-                  <span class="text-white"> Luxury Specialist </span>
-                </div>
-                <div>
-                  <span
-                    class="inline-block text-13 md:text-sm bg-primary text-white rounded-[30px] py-px px-[8px]"
-                  >
-                    4.9 (75 reviews)
-                  </span>
-                </div>
+                <h3
+                  class="mb-[12px] text-base md:text-lg lg:text-xl leading-[1.2]"
+                >
+                  Career Growth
+                </h3>
+                <p>
+                  Continuous learning opportunities, mentorship programs, and
+                  clear paths for advancement within the company.
+                </p>
               </div>
               <div
-                class="absolute inset-0 rounded-[15px]"
-                style="
-                  background: linear-gradient(
-                    180deg,
-                    rgba(13, 20, 22, 0) 50%,
-                    rgba(13, 20, 22, 0.9) 100%
-                  );
-                "
-              ></div>
-            </div>
-            <div class="group overflow-hidden relative rounded-[15px]">
-              <img
-                src="assets/images/drivers/driver5.jpg"
-                class="rounded-[15px] transition-all duration-500 ease-in-out group-hover:scale-110"
-                alt="driver-image"
-              />
-              <div
-                class="absolute left-0 right-0 bottom-0 z-[1] p-[20px] md:p-[25px] lg:p-[30px] flex items-center justify-between"
+                class="border border-[#D9D9D9] dark:border-white/10 rounded-[10px] p-[20px] md:p-[25px] lg:p-[30px] mb-[10px] last:mb-0 ltr:border-l-[4px] rtl:border-r-[4px] ltr:!border-l-primary rtl:!border-r-primary"
               >
-                <div>
-                  <h3
-                    class="!text-white mb-[5px] text-base md:text-lg lg:text-xl leading-[1.2]"
-                  >
-                    <a href="driver-details.html" class="hover:text-primary">
-                      Jeffrey Simon
-                    </a>
-                  </h3>
-                  <span class="text-white"> Chauffeur </span>
-                </div>
-                <div>
-                  <span
-                    class="inline-block text-13 md:text-sm bg-primary text-white rounded-[30px] py-px px-[8px]"
-                  >
-                    5.0 (132 reviews)
-                  </span>
-                </div>
+                <h3
+                  class="mb-[12px] text-base md:text-lg lg:text-xl leading-[1.2]"
+                >
+                  Work-Life Balance
+                </h3>
+                <p>
+                  Flexible scheduling, generous PTO, and remote work options for
+                  eligible positions.
+                </p>
               </div>
-              <div
-                class="absolute inset-0 rounded-[15px]"
-                style="
-                  background: linear-gradient(
-                    180deg,
-                    rgba(13, 20, 22, 0) 50%,
-                    rgba(13, 20, 22, 0.9) 100%
-                  );
-                "
-              ></div>
-            </div>
-            <div class="group overflow-hidden relative rounded-[15px]">
-              <img
-                src="assets/images/drivers/driver6.jpg"
-                class="rounded-[15px] transition-all duration-500 ease-in-out group-hover:scale-110"
-                alt="driver-image"
-              />
-              <div
-                class="absolute left-0 right-0 bottom-0 z-[1] p-[20px] md:p-[25px] lg:p-[30px] flex items-center justify-between"
-              >
-                <div>
-                  <h3
-                    class="!text-white mb-[5px] text-base md:text-lg lg:text-xl leading-[1.2]"
-                  >
-                    <a href="driver-details.html" class="hover:text-primary">
-                      Frank Morrison
-                    </a>
-                  </h3>
-                  <span class="text-white"> Senior Chauffeur </span>
-                </div>
-                <div>
-                  <span
-                    class="inline-block text-13 md:text-sm bg-primary text-white rounded-[30px] py-px px-[8px]"
-                  >
-                    4.8 (99 reviews)
-                  </span>
-                </div>
-              </div>
-              <div
-                class="absolute inset-0 rounded-[15px]"
-                style="
-                  background: linear-gradient(
-                    180deg,
-                    rgba(13, 20, 22, 0) 50%,
-                    rgba(13, 20, 22, 0.9) 100%
-                  );
-                "
-              ></div>
             </div>
           </div>
         </div>
       </div>
-      <!-- End Drivers -->
+      <!-- End Why Work At ASIA MAX -->
 
       <!-- How ASIA MAX Works -->
-      <div class="pb-[60px] md:pb-[80px] lg:pb-[100px] xl:pb-[120px]">
+      <div
+        class="py-[60px] md:py-[80px] lg:py-[100px] xl:py-[120px] bg-[#FFF1F1] dark:bg-black"
+      >
         <div
           class="container"
           data-cues="slideInUp"
@@ -1518,7 +1416,7 @@
         >
           <div class="text-center mb-[30px] md:mb-[35px] lg:mb-[40px]">
             <h2 class="mb-0 text-xl md:text-2xl lg:text-3xl leading-[1.2]">
-              Our Rigorous Selection Process
+              Our Culture
             </h2>
           </div>
           <div
@@ -1527,12 +1425,12 @@
             <div class="group">
               <div class="flex items-center mb-[20px] md:mb-[25px]">
                 <div
-                  class="flex items-center justify-center text-5xl rounded-full bg-[#FFF1F1] dark:bg-black w-[100px] h-[100px] pt-[5px] transition-all duration-300 ease-in-out group-hover:bg-primary group-hover:text-white"
+                  class="flex items-center justify-center text-5xl rounded-full bg-[#F5E3E7] dark:bg-dark w-[100px] h-[100px] pt-[5px] transition-all duration-300 ease-in-out group-hover:bg-primary group-hover:text-white"
                 >
-                  <i class="flaticon-booking-online"></i>
+                  <i class="flaticon-luxury"></i>
                 </div>
                 <div
-                  class="flex items-center justify-center w-[50px] h-[50px] rounded-full bg-primary text-white font-bold text-base md:text-lg lg:text-xl ltr:-ml-[20px] rtl:-mr-[20px] transition-all duration-300 ease-in-out group-hover:bg-black"
+                  class="flex items-center justify-center w-[50px] h-[50px] rounded-full bg-primary text-white font-bold text-base md:text-lg lg:text-xl ltr:-ml-[20px] rtl:-mr-[20px] transition-all duration-300 ease-in-out group-hover:bg-dark"
                 >
                   01
                 </div>
@@ -1540,22 +1438,22 @@
               <h3
                 class="mb-[10px] md:mb-[12px] text-base md:text-lg lg:text-xl leading-[1.2]"
               >
-                Background Verification
+                Customer First
               </h3>
               <p>
-                Comprehensive background checks, driving record review, and
-                criminal history verification for every candidate.
+                Everything we do is centered around delivering exceptional
+                experiences for our customers.
               </p>
             </div>
             <div class="group">
               <div class="flex items-center mb-[20px] md:mb-[25px]">
                 <div
-                  class="flex items-center justify-center text-5xl rounded-full bg-[#FFF1F1] dark:bg-black w-[100px] h-[100px] pt-[5px] transition-all duration-300 ease-in-out group-hover:bg-primary group-hover:text-white"
+                  class="flex items-center justify-center text-5xl rounded-full bg-[#F5E3E7] dark:bg-dark w-[100px] h-[100px] pt-[5px] transition-all duration-300 ease-in-out group-hover:bg-primary group-hover:text-white"
                 >
-                  <i class="flaticon-insurance"></i>
+                  <i class="flaticon-handshake"></i>
                 </div>
                 <div
-                  class="flex items-center justify-center w-[50px] h-[50px] rounded-full bg-primary text-white font-bold text-base md:text-lg lg:text-xl ltr:-ml-[20px] rtl:-mr-[20px] transition-all duration-300 ease-in-out group-hover:bg-black"
+                  class="flex items-center justify-center w-[50px] h-[50px] rounded-full bg-primary text-white font-bold text-base md:text-lg lg:text-xl ltr:-ml-[20px] rtl:-mr-[20px] transition-all duration-300 ease-in-out group-hover:bg-dark"
                 >
                   02
                 </div>
@@ -1563,22 +1461,22 @@
               <h3
                 class="mb-[10px] md:mb-[12px] text-base md:text-lg lg:text-xl leading-[1.2]"
               >
-                Experience Assessment
+                Integrity
               </h3>
               <p>
-                Minimum 5 years professional driving experience with excellent
-                safety records and customer service history.
+                We operate with honesty, transparency, and ethical practices in
+                all our business dealings.
               </p>
             </div>
             <div class="group">
               <div class="flex items-center mb-[20px] md:mb-[25px]">
                 <div
-                  class="flex items-center justify-center text-5xl rounded-full bg-[#FFF1F1] dark:bg-black w-[100px] h-[100px] pt-[5px] transition-all duration-300 ease-in-out group-hover:bg-primary group-hover:text-white"
+                  class="flex items-center justify-center text-5xl rounded-full bg-[#F5E3E7] dark:bg-dark w-[100px] h-[100px] pt-[5px] transition-all duration-300 ease-in-out group-hover:bg-primary group-hover:text-white"
                 >
-                  <i class="flaticon-chauffeur"></i>
+                  <i class="flaticon-innovation"></i>
                 </div>
                 <div
-                  class="flex items-center justify-center w-[50px] h-[50px] rounded-full bg-primary text-white font-bold text-base md:text-lg lg:text-xl ltr:-ml-[20px] rtl:-mr-[20px] transition-all duration-300 ease-in-out group-hover:bg-black"
+                  class="flex items-center justify-center w-[50px] h-[50px] rounded-full bg-primary text-white font-bold text-base md:text-lg lg:text-xl ltr:-ml-[20px] rtl:-mr-[20px] transition-all duration-300 ease-in-out group-hover:bg-dark"
                 >
                   03
                 </div>
@@ -1586,22 +1484,22 @@
               <h3
                 class="mb-[10px] md:mb-[12px] text-base md:text-lg lg:text-xl leading-[1.2]"
               >
-                Specialized Training
+                Innovation
               </h3>
               <p>
-                Intensive training in defensive driving, customer service,
-                vehicle maintenance, and emergency procedures.
+                We embrace change and continuously seek new ways to improve our
+                services and operations.
               </p>
             </div>
             <div class="group">
               <div class="flex items-center mb-[20px] md:mb-[25px]">
                 <div
-                  class="flex items-center justify-center text-5xl rounded-full bg-[#FFF1F1] dark:bg-black w-[100px] h-[100px] pt-[5px] transition-all duration-300 ease-in-out group-hover:bg-primary group-hover:text-white"
+                  class="flex items-center justify-center text-5xl rounded-full bg-[#F5E3E7] dark:bg-dark w-[100px] h-[100px] pt-[5px] transition-all duration-300 ease-in-out group-hover:bg-primary group-hover:text-white"
                 >
-                  <i class="flaticon-dance"></i>
+                  <i class="flaticon-collaboration"></i>
                 </div>
                 <div
-                  class="flex items-center justify-center w-[50px] h-[50px] rounded-full bg-primary text-white font-bold text-base md:text-lg lg:text-xl ltr:-ml-[20px] rtl:-mr-[20px] transition-all duration-300 ease-in-out group-hover:bg-black"
+                  class="flex items-center justify-center w-[50px] h-[50px] rounded-full bg-primary text-white font-bold text-base md:text-lg lg:text-xl ltr:-ml-[20px] rtl:-mr-[20px] transition-all duration-300 ease-in-out group-hover:bg-dark"
                 >
                   04
                 </div>
@@ -1609,11 +1507,11 @@
               <h3
                 class="mb-[10px] md:mb-[12px] text-base md:text-lg lg:text-xl leading-[1.2]"
               >
-                Language & Etiquette
+                Collaboration
               </h3>
               <p>
-                Multi-lingual capabilities and professional etiquette training
-                for international clientele and VIP service.
+                We believe in the power of teamwork and support each other to
+                achieve common goals.
               </p>
             </div>
           </div>
@@ -1621,66 +1519,368 @@
       </div>
       <!-- End How ASIA MAX Works -->
 
-      <!-- Download Our App -->
-      <div class="py-[30px] md:py-[40px] lg:py-[50px] bg-primary text-white">
-        <div class="container">
+      <!-- Open Positions -->
+      <div class="py-[60px] md:py-[80px] lg:py-[100px] xl:py-[120px]">
+        <div class="container" data-cues="slideInUp" data-group="jobsContent">
+          <div class="text-center mb-[30px] md:mb-[35px] lg:mb-[40px]">
+            <h2 class="mb-0 text-xl md:text-2xl lg:text-3xl leading-[1.2]">
+              Open Positions
+            </h2>
+          </div>
           <div
-            class="grid grid-cols-1 lg:grid-cols-2 gap-[15px] md:gap-[20px] lg:gap-[25px]"
+            class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-[25px]"
           >
-            <div class="xl:max-w-[535px]">
-              <p>
-                ASIA MAX is a premium car rental service offering professional
-                chauffeurs, reliable vehicles, and exceptional comfort for every
-                journey.
-              </p>
+            <div
+              class="group rounded-[15px] border border-[#D9D9D9] dark:border-white/10"
+            >
+              <div class="relative rounded-[15px]">
+                <a
+                  href="career-details.html"
+                  class="block overflow-hidden rounded-[15px]"
+                >
+                  <img
+                    src="assets/images/jobs/job1.jpg"
+                    class="rounded-[15px] transition duration-500 ease-in-out group-hover:scale-110"
+                    alt="job-image"
+                  />
+                </a>
+                <span
+                  class="inline-block bg-primary text-white rounded-[30px] py-px px-[12px] absolute top-[10px] ltr:right-[10px] rtl:left-[10px]"
+                >
+                  Full-Time
+                </span>
+                <ul
+                  class="flex flex-wrap gap-[8px] md:gap-x-[20px] absolute ltr:left-[10px] rtl:right-[10px] bottom-[10px] text-white"
+                >
+                  <li class="relative ltr:pl-[27px] rtl:pr-[27px]">
+                    <i
+                      class="ri-map-pin-fill font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                    ></i>
+                    New York, NY
+                  </li>
+                  <li class="relative ltr:pl-[27px] rtl:pr-[27px]">
+                    <i
+                      class="ri-money-dollar-circle-fill font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                    ></i>
+                    $65k - $85k
+                  </li>
+                </ul>
+              </div>
+              <div class="p-[20px] md:p-[25px] lg:p-[30px]">
+                <h3
+                  class="mb-[10px] text-base md:text-lg lg:text-xl leading-[1.2]"
+                >
+                  <a href="career-details.html" class="hover:text-primary">
+                    Executive Chauffeur
+                  </a>
+                </h3>
+                <p>
+                  Provide premium transportation services to corporate clients.
+                  Maintain the highest standards of safety, professionalism, and
+                  customer service.
+                </p>
+                <ul class="md:mt-[20px]">
+                  <li
+                    class="font-medium text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px] mb-[10px] last:mb-0"
+                  >
+                    <i
+                      class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                    ></i>
+                    5+ years professional driving experience
+                  </li>
+                  <li
+                    class="font-medium text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px] mb-[10px] last:mb-0"
+                  >
+                    <i
+                      class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                    ></i>
+                    Clean driving record required
+                  </li>
+                  <li
+                    class="font-medium text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px] mb-[10px] last:mb-0"
+                  >
+                    <i
+                      class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                    ></i>
+                    Executive service training preferred
+                  </li>
+                  <li
+                    class="font-medium text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px] mb-[10px] last:mb-0"
+                  >
+                    <i
+                      class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                    ></i>
+                    Excellent communication skills
+                  </li>
+                </ul>
+                <div
+                  class="flex items-center flex-wrap gap-[20px] md:gap-[25px] lg:gap-[30px] mt-[15px] md:mt-[20px] lg:mt-[25px]"
+                >
+                  <a href="career-details.html" class="primary-btn">
+                    <span> Apply Now </span>
+                    <i
+                      class="ri-calendar-2-line !bg-white !text-black dark:!bg-dark dark:!text-white"
+                    ></i>
+                  </a>
+                  <a
+                    href="career-details.html"
+                    class="inline-block text-15 md:text-base lg:text-lg xl:text-xl font-medium text-black dark:text-white hover:text-primary"
+                  >
+                    See Details
+                  </a>
+                </div>
+              </div>
             </div>
-            <div class="flex flex-wrap items-center lg:justify-end gap-[15px]">
-              <h3
-                class="!text-white mb-0 text-base md:text-lg lg:text-xl leading-[1.2]"
-              >
-                Download Our App
-              </h3>
-              <div class="flex flex-wrap items-center gap-[10px]">
+            <div
+              class="group rounded-[15px] border border-[#D9D9D9] dark:border-white/10"
+            >
+              <div class="relative rounded-[15px]">
                 <a
-                  href="drivers.html#"
-                  target="_blank"
-                  class="inline-block relative border border-white/30 bg-[#171E20] rounded-[5px] py-[10px] ltr:pr-[18px] rtl:pl-[18px] ltr:pl-[57px] rtl:pr-[57px] hover:border-white"
+                  href="career-details.html"
+                  class="block overflow-hidden rounded-[15px]"
                 >
-                  <i
-                    class="ri-apple-fill text-white absolute top-1/2 -translate-y-1/2 ltr:left-[12px] rtl:right-[12px] text-4xl leading-none -mt-px"
-                  ></i>
-                  <span
-                    class="block text-[#d9d9d9] text-13 md:text-sm leading-none mb-[3px]"
-                  >
-                    Download on the
-                  </span>
-                  <span class="block font-bold text-white leading-none">
-                    App Store
-                  </span>
+                  <img
+                    src="assets/images/jobs/job2.jpg"
+                    class="rounded-[15px] transition duration-500 ease-in-out group-hover:scale-110"
+                    alt="job-image"
+                  />
                 </a>
+                <span
+                  class="inline-block bg-primary text-white rounded-[30px] py-px px-[12px] absolute top-[10px] ltr:right-[10px] rtl:left-[10px]"
+                >
+                  Full-Time
+                </span>
+                <ul
+                  class="flex flex-wrap gap-[8px] md:gap-x-[20px] absolute ltr:left-[10px] rtl:right-[10px] bottom-[10px] text-white"
+                >
+                  <li class="relative ltr:pl-[27px] rtl:pr-[27px]">
+                    <i
+                      class="ri-map-pin-fill font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                    ></i>
+                    Chicago, IL
+                  </li>
+                  <li class="relative ltr:pl-[27px] rtl:pr-[27px]">
+                    <i
+                      class="ri-money-dollar-circle-fill font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                    ></i>
+                    75k - $95k
+                  </li>
+                </ul>
+              </div>
+              <div class="p-[20px] md:p-[25px] lg:p-[30px]">
+                <h3
+                  class="mb-[10px] text-base md:text-lg lg:text-xl leading-[1.2]"
+                >
+                  <a href="career-details.html" class="hover:text-primary">
+                    Operations Manager
+                  </a>
+                </h3>
+                <p>
+                  Oversee daily operations, manage driver teams, optimize
+                  routes, and ensure exceptional service delivery across the
+                  Chicago metropolitan area.
+                </p>
+                <ul class="md:mt-[20px]">
+                  <li
+                    class="font-medium text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px] mb-[10px] last:mb-0"
+                  >
+                    <i
+                      class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                    ></i>
+                    3+ years management experience
+                  </li>
+                  <li
+                    class="font-medium text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px] mb-[10px] last:mb-0"
+                  >
+                    <i
+                      class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                    ></i>
+                    Strong leadership & team management skills
+                  </li>
+                  <li
+                    class="font-medium text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px] mb-[10px] last:mb-0"
+                  >
+                    <i
+                      class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                    ></i>
+                    Experience in transportation preferred
+                  </li>
+                  <li
+                    class="font-medium text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px] mb-[10px] last:mb-0"
+                  >
+                    <i
+                      class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                    ></i>
+                    Data-driven decision making ability
+                  </li>
+                </ul>
+                <div
+                  class="flex items-center flex-wrap gap-[20px] md:gap-[25px] lg:gap-[30px] mt-[15px] md:mt-[20px] lg:mt-[25px]"
+                >
+                  <a href="career-details.html" class="primary-btn">
+                    <span> Apply Now </span>
+                    <i
+                      class="ri-calendar-2-line !bg-white !text-black dark:!bg-dark dark:!text-white"
+                    ></i>
+                  </a>
+                  <a
+                    href="career-details.html"
+                    class="inline-block text-15 md:text-base lg:text-lg xl:text-xl font-medium text-black dark:text-white hover:text-primary"
+                  >
+                    See Details
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div
+              class="group rounded-[15px] border border-[#D9D9D9] dark:border-white/10"
+            >
+              <div class="relative rounded-[15px]">
                 <a
-                  href="drivers.html#"
-                  target="_blank"
-                  class="inline-block relative border border-white/30 bg-[#171E20] rounded-[5px] py-[10px] ltr:pr-[18px] rtl:pl-[18px] ltr:pl-[57px] rtl:pr-[57px] hover:border-white"
+                  href="career-details.html"
+                  class="block overflow-hidden rounded-[15px]"
                 >
-                  <i
-                    class="ri-google-play-fill text-white absolute top-1/2 -translate-y-1/2 ltr:left-[12px] rtl:right-[12px] text-4xl leading-none -mt-px"
-                  ></i>
-                  <span
-                    class="block text-[#d9d9d9] text-13 md:text-sm leading-none mb-[3px]"
-                  >
-                    Get it on
-                  </span>
-                  <span class="block font-bold text-white leading-none">
-                    Google Play
-                  </span>
+                  <img
+                    src="assets/images/jobs/job3.jpg"
+                    class="rounded-[15px] transition duration-500 ease-in-out group-hover:scale-110"
+                    alt="job-image"
+                  />
                 </a>
+                <span
+                  class="inline-block bg-primary text-white rounded-[30px] py-px px-[12px] absolute top-[10px] ltr:right-[10px] rtl:left-[10px]"
+                >
+                  Part-Time
+                </span>
+                <ul
+                  class="flex flex-wrap gap-[8px] md:gap-x-[20px] absolute ltr:left-[10px] rtl:right-[10px] bottom-[10px] text-white"
+                >
+                  <li class="relative ltr:pl-[27px] rtl:pr-[27px]">
+                    <i
+                      class="ri-map-pin-fill font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                    ></i>
+                    Miami, FL
+                  </li>
+                  <li class="relative ltr:pl-[27px] rtl:pr-[27px]">
+                    <i
+                      class="ri-money-dollar-circle-fill font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                    ></i>
+                    $25 - $35/hr
+                  </li>
+                </ul>
+              </div>
+              <div class="p-[20px] md:p-[25px] lg:p-[30px]">
+                <h3
+                  class="mb-[10px] text-base md:text-lg lg:text-xl leading-[1.2]"
+                >
+                  <a href="career-details.html" class="hover:text-primary">
+                    Luxury SUV Driver
+                  </a>
+                </h3>
+                <p>
+                  Provide premium transportation services for airport transfers,
+                  corporate events, and special occasions using our luxury SUV
+                  fleet.
+                </p>
+                <ul class="md:mt-[20px]">
+                  <li
+                    class="font-medium text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px] mb-[10px] last:mb-0"
+                  >
+                    <i
+                      class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                    ></i>
+                    3+ years professional driving experience
+                  </li>
+                  <li
+                    class="font-medium text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px] mb-[10px] last:mb-0"
+                  >
+                    <i
+                      class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                    ></i>
+                    Clean driving record required
+                  </li>
+                  <li
+                    class="font-medium text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px] mb-[10px] last:mb-0"
+                  >
+                    <i
+                      class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                    ></i>
+                    SUV driving experience preferred
+                  </li>
+                  <li
+                    class="font-medium text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px] mb-[10px] last:mb-0"
+                  >
+                    <i
+                      class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                    ></i>
+                    Flexible schedule availability
+                  </li>
+                </ul>
+                <div
+                  class="flex items-center flex-wrap gap-[20px] md:gap-[25px] lg:gap-[30px] mt-[15px] md:mt-[20px] lg:mt-[25px]"
+                >
+                  <a href="career-details.html" class="primary-btn">
+                    <span> Apply Now </span>
+                    <i
+                      class="ri-calendar-2-line !bg-white !text-black dark:!bg-dark dark:!text-white"
+                    ></i>
+                  </a>
+                  <a
+                    href="career-details.html"
+                    class="inline-block text-15 md:text-base lg:text-lg xl:text-xl font-medium text-black dark:text-white hover:text-primary"
+                  >
+                    See Details
+                  </a>
+                </div>
               </div>
             </div>
           </div>
         </div>
       </div>
-      <!-- End Download Our App -->
+      <!-- End Open Positions -->
+
+      <!-- CTA -->
+      <div class="pb-[60px] md:pb-[80px] lg:pb-[100px] xl:pb-[120px]">
+        <div class="container">
+          <div
+            class="rounded-[15px] text-white bg-primary bg-cover bg-center bg-no-repeat relative z-[1] py-[60px] md:py-[80px] lg:py-[100px] xl:py-[120px] px-[20px]"
+            style="background-image: url(assets/images/bg-images/bg-image5.jpg)"
+            data-cue="slideInUp"
+          >
+            <div class="mx-auto text-center lg:max-w-[780px]">
+              <h2
+                class="!text-white text-xl md:text-2xl lg:text-3xl leading-[1.2] mb-[12px] md:mb-[15px]"
+              >
+                Don't See the Perfect Role?
+              </h2>
+              <p class="font-medium mx-auto md:max-w-[600px] lg:max-w-[660px]">
+                We're always looking for talented individuals to join our team.
+                Send us your resume and tell us how you can contribute to
+                ASIA MAX's success.
+              </p>
+              <a
+                href="career-details.html"
+                class="primary-btn group mt-[5px] md:mt-[10px] lg:mt-[15px]"
+              >
+                <span> Submit General Application </span>
+                <i class="ri-map-pin-line"></i>
+              </a>
+            </div>
+            <div
+              class="absolute inset-0 -z-[1] rounded-[15px] opacity-90"
+              style="
+                background: linear-gradient(
+                  180deg,
+                  #ff5100 0%,
+                  rgba(0, 0, 0, 0.7) 100%
+                );
+              "
+            ></div>
+          </div>
+        </div>
+      </div>
+      <!-- End CTA -->
+
+      
     </main>
     <!-- End Main -->
 
@@ -1704,28 +1904,28 @@
             </p>
             <div class="flex items-center gap-[10px] mt-[20px] lg:mt-[25px]">
               <a
-                href="drivers.html#"
+                href="careers.html#"
                 class="flex items-center justify-center text-white w-[35px] md:w-[40px] h-[35px] md:h-[40px] border border-[#292F31] rounded-full hover:bg-primary hover:border-primary"
                 target="_blank"
               >
                 <i class="ri-facebook-fill"></i>
               </a>
               <a
-                href="drivers.html#"
+                href="careers.html#"
                 class="flex items-center justify-center text-white w-[35px] md:w-[40px] h-[35px] md:h-[40px] border border-[#292F31] rounded-full hover:bg-primary hover:border-primary"
                 target="_blank"
               >
                 <i class="ri-twitter-x-fill"></i>
               </a>
               <a
-                href="drivers.html#"
+                href="careers.html#"
                 class="flex items-center justify-center text-white w-[35px] md:w-[40px] h-[35px] md:h-[40px] border border-[#292F31] rounded-full hover:bg-primary hover:border-primary"
                 target="_blank"
               >
                 <i class="ri-linkedin-fill"></i>
               </a>
               <a
-                href="drivers.html#"
+                href="careers.html#"
                 class="flex items-center justify-center text-white w-[35px] md:w-[40px] h-[35px] md:h-[40px] border border-[#292F31] rounded-full hover:bg-primary hover:border-primary"
                 target="_blank"
               >
@@ -1756,7 +1956,7 @@
                     href="pricing.html"
                     class="text-[#d9d9d9] hover:text-primary"
                   >
-                    Pricing plan
+                    
                   </a>
                 </li>
                 <li class="mb-[8px] last:mb-0">
@@ -1794,7 +1994,7 @@
               <ul>
                 <li class="mb-[8px] last:mb-0">
                   <a
-                    href="drivers.html#"
+                    href="careers.html#"
                     target="_blank"
                     class="text-[#d9d9d9] hover:text-primary"
                   >
@@ -1803,7 +2003,7 @@
                 </li>
                 <li class="mb-[8px] last:mb-0">
                   <a
-                    href="drivers.html#"
+                    href="careers.html#"
                     target="_blank"
                     class="text-[#d9d9d9] hover:text-primary"
                   >
@@ -1812,7 +2012,7 @@
                 </li>
                 <li class="mb-[8px] last:mb-0">
                   <a
-                    href="drivers.html#"
+                    href="careers.html#"
                     target="_blank"
                     class="text-[#d9d9d9] hover:text-primary"
                   >
@@ -1821,7 +2021,7 @@
                 </li>
                 <li class="mb-[8px] last:mb-0">
                   <a
-                    href="drivers.html#"
+                    href="careers.html#"
                     target="_blank"
                     class="text-[#d9d9d9] hover:text-primary"
                   >
@@ -1830,7 +2030,7 @@
                 </li>
                 <li class="mb-[8px] last:mb-0">
                   <a
-                    href="drivers.html#"
+                    href="careers.html#"
                     target="_blank"
                     class="text-[#d9d9d9] hover:text-primary"
                   >
@@ -1864,12 +2064,12 @@
                 >
                   Email:
                   <a
-                    href="https://templates.arxionlabs.com/cdn-cgi/l/email-protection#254d4049494a6557404b51540b464a48"
+                    href="https://templates.arxionlabs.com/cdn-cgi/l/email-protection#e088858c8c8fa092858e9491ce838f8d"
                     class="font-bold md:text-lg lg:text-xl text-primary hover:underline"
                   >
                     <span
                       class="__cf_email__"
-                      data-cfemail="4028252c2c2f0032252e34316e232f2d"
+                      data-cfemail="3f575a5353507f4d5a514b4e115c5052"
                       >[email&#160;protected]</span
                     >
                   </a>
@@ -1879,7 +2079,7 @@
                 >
                   Address:
                   <a
-                    href="drivers.html#"
+                    href="careers.html#"
                     target="_blank"
                     class="font-semibold text-white hover:text-primary"
                   >
@@ -1953,7 +2153,7 @@
           if (b) {
             var d = b.createElement("script");
             d.innerHTML =
-              "window.__CF$cv$params={r:'9d5f1e3db8a9a7e0',t:'MTc3MjQ0MTA1MQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";
+              "window.__CF$cv$params={r:'9d5f1e810a18a7e0',t:'MTc3MjQ0MTA2Mg=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";
             b.getElementsByTagName("head")[0].appendChild(d);
           }
         }

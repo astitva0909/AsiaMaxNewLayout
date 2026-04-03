@@ -43,9 +43,9 @@
             <div class="container lg:!max-w-full 2xl:!max-w-[1620px]">
                 <div class="grid grid-cols-1 lg:grid-cols-2 items-center gap-[8px] md:gap-[10px] lg:gap-[25px]">
                     <div class="flex flex-wrap justify-center lg:justify-start items-center gap-[8px] md:gap-[15px] xl:gap-[25px] font-medium">
-                        <a href="https://templates.arxionlabs.com/cdn-cgi/l/email-protection#bed6dbd2d2d1c9feccdbd0cacf90ddd1d3" class="inline-block relative ltr:pl-[20px] rtl:pr-[20px] ltr:md:pl-[23px] rtl:md:pr-[23px] hover:text-white/80">
+                        <a href="https://templates.arxionlabs.com/cdn-cgi/l/email-protection#452d2029292a320537202b31346b262a28" class="inline-block relative ltr:pl-[20px] rtl:pr-[20px] ltr:md:pl-[23px] rtl:md:pr-[23px] hover:text-white/80">
                             <i class="ri-mail-line font-normal absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0"></i>
-                            <span class="__cf_email__" data-cfemail="573f323b3b38201725323923267934383a">[email&#160;protected]</span>
+                            <span class="__cf_email__" data-cfemail="2f474a434340586f5d4a415b5e014c4042">[email&#160;protected]</span>
                         </a>
                         <span class="inline-block relative ltr:pl-[20px] rtl:pr-[20px] ltr:md:pl-[23px] rtl:md:pr-[23px]">
                             <i class="ri-time-line font-normal absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0"></i>
@@ -198,36 +198,68 @@
                     </a>
                   </li>
                 </ul> -->
+
               </li>
               <li class="nav-item relative">
                 <a
-                  href="vehicles.html"
+                  href="services.html"
                   class="nav-link dropdown-toggle relative font-medium py-[25px] block text-black dark:text-white hover:text-primary"
                 >
-                  Vehicles
+                  Services
                 </a>
 
-                <!-- <ul
+                <ul
                   class="dropdown-menu absolute min-w-[270px] xl:min-w-[290px] bg-white dark:bg-black py-[25px] transition-all duration-300 ease-in-out shadow-[0_8px_24px_rgba(149,157,165,0.2)] dark:shadow-none"
                 >
                   <li class="nav-item relative mb-[17px] last:mb-0">
                     <a
-                      href="vehicles.html"
+                      href="services.html"
                       class="nav-link font-medium relative text-black dark:text-white px-[25px] block hover:text-primary"
                     >
-                      Vehicles
+                      Services
                     </a>
                   </li>
                   <li class="nav-item relative mb-[17px] last:mb-0">
                     <a
-                      href="vehicle-details.html"
+                      href="CarService.html"
                       class="nav-link font-medium relative text-black dark:text-white px-[25px] block hover:text-primary"
                     >
-                      Vehicle Details
+                      Car Rental Services
                     </a>
                   </li>
-                </ul> -->
-
+                  <li class="nav-item relative mb-[17px] last:mb-0">
+                    <a
+                      href="VanService.html"
+                      class="nav-link font-medium relative text-black dark:text-white px-[25px] block hover:text-primary"
+                    >
+                      Van Rental Services
+                    </a>
+                  </li>
+                  <li class="nav-item relative mb-[17px] last:mb-0">
+                    <a
+                      href="VanServiceDriver.html"
+                      class="nav-link font-medium relative text-black dark:text-white px-[25px] block hover:text-primary"
+                    >
+                      Van Rental with Driver
+                    </a>
+                  </li>
+                  <li class="nav-item relative mb-[17px] last:mb-0">
+                    <a
+                      href="BusServiceDriver.html"
+                      class="nav-link font-medium relative text-black dark:text-white px-[25px] block hover:text-primary"
+                    >
+                      Bus Rental with Driver
+                    </a>
+                  </li>
+                  <li class="nav-item relative mb-[17px] last:mb-0">
+                    <a
+                      href="TourPackage.html"
+                      class="nav-link font-medium relative text-black dark:text-white px-[25px] block hover:text-primary"
+                    >
+                      Malaysia Tour Packages
+                    </a>
+                  </li>
+                </ul> 
               </li>
               <li class="nav-item relative">
                 <a
@@ -247,80 +279,7 @@
                       About Us
                     </a>
                   </li>
-                  <li class="nav-item relative mb-[17px] last:mb-0">
-                    <a
-                      href="drivers.html"
-                      class="nav-link dropdown-toggle font-medium relative text-black dark:text-white px-[25px] block hover:text-primary"
-                    >
-                      Drivers
-                    </a>
-
-                    <!-- <ul
-                      class="dropdown-menu absolute min-w-[270px] xl:min-w-[290px] bg-white dark:bg-black py-[25px] transition-all duration-300 ease-in-out shadow-[0_8px_24px_rgba(149,157,165,0.2)] dark:shadow-none"
-                    >
-                      <li class="nav-item relative mb-[17px] last:mb-0">
-                        <a
-                          href="drivers.html"
-                          class="nav-link font-medium relative text-black dark:text-white px-[25px] block hover:text-primary"
-                        >
-                          Drivers
-                        </a>
-                      </li>
-                      <li class="nav-item relative mb-[17px] last:mb-0">
-                        <a
-                          href="driver-details.html"
-                          class="nav-link font-medium relative text-black dark:text-white px-[25px] block hover:text-primary"
-                        >
-                          Driver Details
-                        </a>
-                      </li>
-                    </ul> -->
-                  </li>
-                  <li class="nav-item relative mb-[17px] last:mb-0">
-                    <a
-                      href="locations.html"
-                      class="nav-link font-medium relative text-black dark:text-white px-[25px] block hover:text-primary"
-                    >
-                      Locations
-                    </a>
-                  </li>
-                  <li class="nav-item relative mb-[17px] last:mb-0">
-                    <a
-                      href="pricing.html"
-                      class="nav-link font-medium relative text-black dark:text-white px-[25px] block hover:text-primary"
-                    >
-                      Pricing Plan
-                    </a>
-                  </li>
-                  <li class="nav-item relative mb-[17px] last:mb-0">
-                    <a
-                      href="careers.html"
-                      class="nav-link dropdown-toggle font-medium relative text-black dark:text-white px-[25px] block hover:text-primary"
-                    >
-                      Careers
-                    </a>
-
-                    <!-- <ul
-                      class="dropdown-menu absolute min-w-[270px] xl:min-w-[290px] bg-white dark:bg-black py-[25px] transition-all duration-300 ease-in-out shadow-[0_8px_24px_rgba(149,157,165,0.2)] dark:shadow-none"
-                    >
-                      <li class="nav-item relative mb-[17px] last:mb-0">
-                        <a
-                          href="careers.html"
-                          class="nav-link font-medium relative text-black dark:text-white px-[25px] block hover:text-primary"
-                        >
-                          Careers
-                        </a>
-                      </li>
-                      <li class="nav-item relative mb-[17px] last:mb-0">
-                        <a
-                          href="career-details.html"
-                          class="nav-link font-medium relative text-black dark:text-white px-[25px] block hover:text-primary"
-                        >
-                          Career Details
-                        </a>
-                      </li>
-                    </ul> -->
-                  </li>
+                  
                   <li class="nav-item relative mb-[17px] last:mb-0">
                     <a
                       href="testimonials.html"
@@ -391,6 +350,7 @@
                       Terms of Service
                     </a>
                   </li>
+                  
 
                   <!-- <li class="nav-item relative mb-[17px] last:mb-0">
                     <a
@@ -449,42 +409,13 @@
                       </li>
                     </ul>
                   </li> -->
-
                 </ul>
               </li>
-              <li class="nav-item relative">
-                <a
-                  href="services.html"
-                  class="nav-link dropdown-toggle relative font-medium py-[25px] block text-black dark:text-white hover:text-primary"
-                >
-                  Services
-                </a>
-
-                <!-- <ul
-                  class="dropdown-menu absolute min-w-[270px] xl:min-w-[290px] bg-white dark:bg-black py-[25px] transition-all duration-300 ease-in-out shadow-[0_8px_24px_rgba(149,157,165,0.2)] dark:shadow-none"
-                >
-                  <li class="nav-item relative mb-[17px] last:mb-0">
-                    <a
-                      href="services.html"
-                      class="nav-link font-medium relative text-black dark:text-white px-[25px] block hover:text-primary"
-                    >
-                      Services
-                    </a>
-                  </li>
-                  <li class="nav-item relative mb-[17px] last:mb-0">
-                    <a
-                      href="service-details.html"
-                      class="nav-link font-medium relative text-black dark:text-white px-[25px] block hover:text-primary"
-                    >
-                      Service Details
-                    </a>
-                  </li>
-                </ul> -->
-              </li>
+              
               <!-- <li class="nav-item relative">
                 <a
                   href="javascript:void(0);"
-                  class="nav-link dropdown-toggle active relative font-medium py-[25px] block text-black dark:text-white hover:text-primary"
+                  class="nav-link dropdown-toggle relative font-medium py-[25px] block text-black dark:text-white hover:text-primary"
                 >
                   Shop
                 </a>
@@ -518,7 +449,7 @@
                   <li class="nav-item relative mb-[17px] last:mb-0">
                     <a
                       href="product-details.html"
-                      class="nav-link active font-medium relative text-black dark:text-white px-[25px] block hover:text-primary"
+                      class="nav-link font-medium relative text-black dark:text-white px-[25px] block hover:text-primary"
                     >
                       Product Details
                     </a>
@@ -533,7 +464,7 @@
                 >
                   Blog
                 </a>
-                
+
                 <!-- <ul
                   class="dropdown-menu absolute min-w-[270px] xl:min-w-[290px] bg-white dark:bg-black py-[25px] transition-all duration-300 ease-in-out shadow-[0_8px_24px_rgba(149,157,165,0.2)] dark:shadow-none"
                 >
@@ -551,9 +482,10 @@
                       class="nav-link font-medium relative text-black dark:text-white px-[25px] block hover:text-primary"
                     >
                       Blog Right Sidebar
-                    </a>
+                    </a> -->
+
                   </li>
-                  <li class="nav-item relative mb-[17px] last:mb-0">
+                  <!-- <li class="nav-item relative mb-[17px] last:mb-0">
                     <a
                       href="blog-left-sidebar.html"
                       class="nav-link font-medium relative text-black dark:text-white px-[25px] block hover:text-primary"
@@ -570,6 +502,7 @@
                     </a>
                   </li>
                 </ul> -->
+
               </li>
               <li class="nav-item relative">
                 <a
@@ -594,7 +527,7 @@
                   id="searchBox"
                   class="absolute mt-[10px] top-full ltr:right-0 rtl:left-0 w-[380px] xl:w-[420px] bg-white dark:bg-black p-[20px] md:p-[25px] lg:p-[30px] invisible opacity-0 transition-all duration-300 ease-in-out shadow-[0_8px_24px_rgba(149,157,165,0.2)] dark:shadow-none"
                 >
-                  <form action="product-details.html#" class="relative">
+                  <form action="vehicle-details.html#" class="relative">
                     <input
                       type="text"
                       class="form-input dark:!bg-dark"
@@ -628,9 +561,8 @@
               >
                 <i class="ri-menu-3-fill"></i>
               </button>
-            </div>
-          </div> -->
-          
+            </div> -->
+          </div>
         </div>
       </div>
     </header>
@@ -717,31 +649,63 @@
           </li>
           <li class="nav-item mb-[15px] md:mb-[20px] last:mb-0">
             <a
-              href="vehicles.html"
+              href="services.html"
               class="nav-link dropdown-toggle relative font-medium block text-base text-black dark:text-white hover:text-primary"
             >
-              Vehicles
+              Services
             </a>
-            <!-- <ul
+            <ul
               class="dropdown-menu hidden mt-[15px] py-[10px] ltr:border-l rtl:border-r border-black/5 dark:border-white/5"
             >
               <li class="nav-item px-[20px] mb-[15px] last:mb-0">
                 <a
-                  href="vehicles.html"
+                  href="services.html"
                   class="nav-link relative font-medium block text-base text-black dark:text-white hover:text-primary"
                 >
-                  Vehicles
+                  Services
                 </a>
               </li>
               <li class="nav-item px-[20px] mb-[15px] last:mb-0">
                 <a
-                  href="vehicle-details.html"
+                  href="CarService.html"
                   class="nav-link relative font-medium block text-base text-black dark:text-white hover:text-primary"
                 >
-                  Vehicle Details
+                  Car Rental Services
                 </a>
               </li>
-            </ul> -->
+              <li class="nav-item px-[20px] mb-[15px] last:mb-0">
+                <a
+                  href="VanService.html"
+                  class="nav-link relative font-medium block text-base text-black dark:text-white hover:text-primary"
+                >
+                  Van Rental Services
+                </a>
+              </li>
+              <li class="nav-item px-[20px] mb-[15px] last:mb-0">
+                <a
+                  href="VanServiceDriver.html"
+                  class="nav-link relative font-medium block text-base text-black dark:text-white hover:text-primary"
+                >
+                  Van Rental With Driver
+                </a>
+              </li>
+              <li class="nav-item px-[20px] mb-[15px] last:mb-0">
+                <a
+                  href="BusServiceDriver.html"
+                  class="nav-link relative font-medium block text-base text-black dark:text-white hover:text-primary"
+                >
+                  Bus Rental With Driver
+                </a>
+              </li>
+              <li class="nav-item px-[20px] mb-[15px] last:mb-0">
+                <a
+                  href="TourPackage.html"
+                  class="nav-link relative font-medium block text-base text-black dark:text-white hover:text-primary"
+                >
+                  Malaysia Tour Packages
+                </a>
+              </li>
+            </ul>
           </li>
           <li class="nav-item mb-[15px] md:mb-[20px] last:mb-0">
             <a
@@ -761,78 +725,7 @@
                   About Us
                 </a>
               </li>
-              <li class="nav-item px-[20px] mb-[15px] last:mb-0">
-                <a
-                  href="drivers.html"
-                  class="nav-link dropdown-toggle relative font-medium block text-base text-black dark:text-white hover:text-primary"
-                >
-                  Drivers
-                </a>
-                <!-- <ul
-                  class="dropdown-menu hidden mt-[15px] py-[10px] ltr:border-l rtl:border-r border-black/5 dark:border-white/5"
-                >
-                  <li class="nav-item px-[20px] mb-[15px] last:mb-0">
-                    <a
-                      href="drivers.html"
-                      class="nav-link relative font-medium block text-base text-black dark:text-white hover:text-primary"
-                    >
-                      Drivers
-                    </a>
-                  </li>
-                  <li class="nav-item px-[20px] mb-[15px] last:mb-0">
-                    <a
-                      href="driver-details.html"
-                      class="nav-link relative font-medium block text-base text-black dark:text-white hover:text-primary"
-                    >
-                      Driver Details
-                    </a>
-                  </li>
-                </ul> -->
-              </li>
-              <li class="nav-item px-[20px] mb-[15px] last:mb-0">
-                <a
-                  href="locations.html"
-                  class="nav-link relative font-medium block text-base text-black dark:text-white hover:text-primary"
-                >
-                  Locations
-                </a>
-              </li>
-              <li class="nav-item px-[20px] mb-[15px] last:mb-0">
-                <a
-                  href="pricing.html"
-                  class="nav-link relative font-medium block text-base text-black dark:text-white hover:text-primary"
-                >
-                  Pricing Plan
-                </a>
-              </li>
-              <li class="nav-item px-[20px] mb-[15px] last:mb-0">
-                <a
-                  href="careers.html"
-                  class="nav-link dropdown-toggle relative font-medium block text-base text-black dark:text-white hover:text-primary"
-                >
-                  Careers
-                </a>
-                <!-- <ul
-                  class="dropdown-menu hidden mt-[15px] py-[10px] ltr:border-l rtl:border-r border-black/5 dark:border-white/5"
-                >
-                  <li class="nav-item px-[20px] mb-[15px] last:mb-0">
-                    <a
-                      href="careers.html"
-                      class="nav-link relative font-medium block text-base text-black dark:text-white hover:text-primary"
-                    >
-                      Careers
-                    </a>
-                  </li>
-                  <li class="nav-item px-[20px] mb-[15px] last:mb-0">
-                    <a
-                      href="career-details.html"
-                      class="nav-link relative font-medium block text-base text-black dark:text-white hover:text-primary"
-                    >
-                      Career Details
-                    </a>
-                  </li>
-                </ul> -->
-              </li>
+              
               <li class="nav-item px-[20px] mb-[15px] last:mb-0">
                 <a
                   href="testimonials.html"
@@ -959,38 +852,11 @@
               </li> -->
             </ul>
           </li>
-          <li class="nav-item mb-[15px] md:mb-[20px] last:mb-0">
-            <a
-              href="services.html"
-              class="nav-link dropdown-toggle relative font-medium block text-base text-black dark:text-white hover:text-primary"
-            >
-              Services
-            </a>
-            <!-- <ul
-              class="dropdown-menu hidden mt-[15px] py-[10px] ltr:border-l rtl:border-r border-black/5 dark:border-white/5"
-            >
-              <li class="nav-item px-[20px] mb-[15px] last:mb-0">
-                <a
-                  href="services.html"
-                  class="nav-link relative font-medium block text-base text-black dark:text-white hover:text-primary"
-                >
-                  Services
-                </a>
-              </li>
-              <li class="nav-item px-[20px] mb-[15px] last:mb-0">
-                <a
-                  href="service-details.html"
-                  class="nav-link relative font-medium block text-base text-black dark:text-white hover:text-primary"
-                >
-                  Service Details
-                </a>
-              </li>
-            </ul> -->
-          </li>
+          
           <!-- <li class="nav-item mb-[15px] md:mb-[20px] last:mb-0">
             <a
               href="javascript:void(0);"
-              class="nav-link dropdown-toggle active relative font-medium block text-base text-black dark:text-white hover:text-primary"
+              class="nav-link dropdown-toggle relative font-medium block text-base text-black dark:text-white hover:text-primary"
             >
               Shop
             </a>
@@ -1024,7 +890,7 @@
               <li class="nav-item px-[20px] mb-[15px] last:mb-0">
                 <a
                   href="product-details.html"
-                  class="nav-link active relative font-medium block text-base text-black dark:text-white hover:text-primary"
+                  class="nav-link relative font-medium block text-base text-black dark:text-white hover:text-primary"
                 >
                   Product Details
                 </a>
@@ -1102,12 +968,12 @@
           <li class="mb-[5px] last:mb-0 flex items-center flex-wrap gap-[5px]">
             Email:
             <a
-              href="https://templates.arxionlabs.com/cdn-cgi/l/email-protection#c3aba6afafac83b1a6adb7b2eda0acae"
+              href="https://templates.arxionlabs.com/cdn-cgi/l/email-protection#6e060b0202012e1c0b001a1f400d0103"
               class="font-bold md:text-lg lg:text-xl text-primary hover:underline"
             >
               <span
                 class="__cf_email__"
-                data-cfemail="6c04090000032c1e0902181d420f0301"
+                data-cfemail="c3aba6afafac83b1a6adb7b2eda0acae"
                 >[email&#160;protected]</span
               >
             </a>
@@ -1115,7 +981,7 @@
           <li class="mb-[5px] last:mb-0 flex items-center flex-wrap gap-[5px]">
             Address:
             <a
-              href="product-details.html#"
+              href="vehicle-details.html#"
               target="_blank"
               class="font-semibold hover:text-primary"
             >
@@ -1129,7 +995,7 @@
         <ul>
           <li class="mb-[7px] md:mb-[10px] last:mb-0">
             <a
-              href="product-details.html#"
+              href="vehicle-details.html#"
               target="_blank"
               class="group text-black dark:text-white flex items-center gap-[10px]"
             >
@@ -1141,7 +1007,7 @@
           </li>
           <li class="mb-[7px] md:mb-[10px] last:mb-0">
             <a
-              href="product-details.html#"
+              href="vehicle-details.html#"
               target="_blank"
               class="group text-black dark:text-white flex items-center gap-[10px]"
             >
@@ -1153,7 +1019,7 @@
           </li>
           <li class="mb-[7px] md:mb-[10px] last:mb-0">
             <a
-              href="product-details.html#"
+              href="vehicle-details.html#"
               target="_blank"
               class="group text-black dark:text-white flex items-center gap-[10px]"
             >
@@ -1165,7 +1031,7 @@
           </li>
           <li class="mb-[7px] md:mb-[10px] last:mb-0">
             <a
-              href="product-details.html#"
+              href="vehicle-details.html#"
               target="_blank"
               class="group text-black dark:text-white flex items-center gap-[10px]"
             >
@@ -1189,7 +1055,7 @@
             0
           </span>
         </a>
-        <form action="product-details.html#" class="relative flex-1">
+        <form action="vehicle-details.html#" class="relative flex-1">
           <input
             type="text"
             class="form-input dark:!bg-dark"
@@ -1218,7 +1084,7 @@
           <h2
             class="mb-[8px] text-[34px] md:text-[44px] lg:text-[54px] xl:text-[64px] leading-[1.2] xl:max-w-[985px]"
           >
-            Transmission Cog Wheel
+            Mercedes-Benz
           </h2>
           <ul
             class="flex flex-wrap items-center justify-center lg:justify-start gap-[10px] md:gap-[15px]"
@@ -1237,14 +1103,14 @@
               ></span>
             </li>
             <li>
-              <a href="shop.html" class="hover:text-primary"> Shop </a>
+              <a href="services.html" class="hover:text-primary"> Vehicles </a>
             </li>
             <li>
               <span
                 class="block w-px h-[15px] bg-black dark:bg-white ltr:rotate-[15deg] rtl:rotate-[-15deg] mt-px"
               ></span>
             </li>
-            <li>Product Details</li>
+            <li>Vehicle Details</li>
           </ul>
           <div
             class="absolute bottom-0 ltr:right-0 rtl:left-0 bg-white dark:bg-dark ltr:rounded-tl-[15px] rtl:rounded-tr-[15px] py-[25px] px-[50px] hidden lg:block"
@@ -1261,103 +1127,130 @@
       </div>
       <!-- End Page Banner -->
 
-      <!-- Product Details -->
+      <!-- Vehicle Details -->
       <div class="py-[60px] md:py-[80px] lg:py-[100px] xl:py-[120px]">
         <div class="container">
-          <div class="grid grid-cols-1 lg:grid-cols-2 gap-[25px] items-center">
-            <div class="text-center rounded-[15px]">
+          <div class="grid grid-cols-1 lg:grid-cols-3 gap-[25px] xl:gap-[50px]">
+            <div class="lg:col-span-2">
               <img
-                src="assets/images/products/product2.jpg"
+                src="assets/images/vehicles/vehicle-details1.jpg"
                 class="rounded-[15px]"
-                alt="product-image"
+                alt="vehicle-details-image"
               />
-            </div>
-            <div class="ltr:xl:pl-[50px] rtl:xl:pr-[50px]">
-              <span class="block font-bold text-primary mb-[7px]">
-                Transmission Components
-              </span>
-              <h3
-                class="text-xl md:text-2xl lg:text-3xl leading-[1.2] mb-[12px] md:mb-[14px]"
-              >
-                Precision Transmission Cog Wheel
-              </h3>
               <div
-                class="leading-none flex items-center gap-[10px] mb-[15px] md:mb-[20px]"
+                class="md:flex justify-between gap-[15px] my-[20px] md:my-[25px] lg:my-[30px]"
               >
-                <span class="block line-through"> $105.00 </span>
-                <span class="block text-primary"> $85.00 </span>
-              </div>
-              <p>
-                High-performance hardened steel cog wheel designed for smooth
-                power transmission and extended durability in demanding
-                automotive applications.
-              </p>
-              <span
-                class="block font-bold text-black dark:text-white md:mt-[20px] lg:mt-[25px] mb-[10px]"
-              >
-                Tooth Count
-              </span>
-              <div class="flex flex-wrap items-center gap-[10px]">
-                <button
-                  type="button"
-                  class="inline-block py-[4px] px-[15px] border border-[#D9D9D9] dark:border-white/10 rounded-[5px] text-13 md:text-sm lg:text-15 font-medium hover:bg-primary hover:text-white hover:border-primary"
-                >
-                  24T
-                </button>
-                <button
-                  type="button"
-                  class="inline-block py-[4px] px-[15px] border border-[#D9D9D9] dark:border-white/10 rounded-[5px] text-13 md:text-sm lg:text-15 font-medium hover:bg-primary hover:text-white hover:border-primary"
-                >
-                  28T
-                </button>
-                <button
-                  type="button"
-                  class="inline-block py-[4px] px-[15px] border border-[#D9D9D9] dark:border-white/10 rounded-[5px] text-13 md:text-sm lg:text-15 font-medium hover:bg-primary hover:text-white hover:border-primary"
-                >
-                  32T
-                </button>
-                <button
-                  type="button"
-                  class="inline-block py-[4px] px-[15px] border border-[#D9D9D9] dark:border-white/10 rounded-[5px] text-13 md:text-sm lg:text-15 font-medium hover:bg-primary hover:text-white hover:border-primary"
-                >
-                  36T
-                </button>
-              </div>
-              <div
-                class="my-[20px] md:my-[25px] lg:my-[30px] flex items-center flex-wrap gap-[10px]"
-              >
-                <span
-                  class="block font-bold text-black dark:text-white ltr:mr-[5px] rtl:ml-[5px]"
-                >
-                  Quantity:
-                </span>
-                <div
-                  class="qty-counter-input flex items-center rounded-[5px] border border-[#D9D9D9] dark:border-white/10"
-                >
-                  <button
-                    class="qty-minus flex items-center justify-center text-xl w-[45px] lg:w-[52px] h-[45px] lg:h-[52px] ltr:border-r rtl:border-l border-[#D9D9D9] dark:border-white/10 transition-all ease-in-out duration-300 hover:text-primary"
-                    type="button"
+                <div class="mb-[10px] md:mb-0">
+                  <h3
+                    class="text-xl md:text-2xl lg:text-3xl leading-[1.2] mb-[5px]"
                   >
-                    <i class="ri-subtract-line"></i>
-                  </button>
-                  <input
-                    type="number"
-                    class="block text-center text-black dark:text-white font-bold w-[52px] !outline-0 placeholder:text-black dark:placeholder:text-white appearance-none [&::-webkit-inner-spin-button]:appearance-none [&::-webkit-outer-spin-button]:appearance-none [-moz-appearance:textfield]"
-                    value="1"
-                    min="1"
-                  />
-                  <button
-                    class="qty-plus flex items-center justify-center text-xl w-[45px] lg:w-[52px] h-[45px] lg:h-[52px] ltr:border-l rtl:border-r border-[#D9D9D9] dark:border-white/10 transition-all ease-in-out duration-300 hover:text-primary"
-                    type="button"
-                  >
-                    <i class="ri-add-line"></i>
-                  </button>
+                    Mercedes-Benz S-Class
+                  </h3>
+                  <p>
+                    The pinnacle of luxury, comfort, and advanced technology
+                  </p>
                 </div>
-                <button type="submit" class="primary-btn group">
-                  <span> Add To Cart </span>
-                  <i class="ri-shopping-cart-line"></i>
-                </button>
+                <div class="ltr:md:text-right rtl:md:text-left">
+                  <span
+                    class="block font-bold text-primary text-xl md:text-2xl lg:text-3xl leading-[1.2]"
+                  >
+                    $38
+                  </span>
+                  <span class="block font-medium text-13 md:text-sm">
+                    per day
+                  </span>
+                </div>
               </div>
+              <h2
+                class="text-xl md:text-2xl lg:text-3xl leading-[1.2] mb-[10px] md:mb-[12px]"
+              >
+                Vehicle Overview
+              </h2>
+              <p>
+                The Mercedes-Benz S-Class represents the ultimate in automotive
+                luxury and innovation. With its sophisticated design,
+                cutting-edge technology, and unparalleled comfort, this vehicle
+                is perfect for executive travel, special occasions, or when you
+                simply want to travel in the utmost style and comfort. Every
+                detail of the S-Class has been meticulously crafted to provide
+                an exceptional experience, from the hand-finished interior to
+                the advanced driver assistance systems that ensure a smooth and
+                safe journey
+              </p>
+              <h2
+                class="text-xl md:text-2xl lg:text-3xl leading-[1.2] mb-[12px] md:mb-[15px] mt-[20px] md:mt-[25px] lg:mt-[30px]"
+              >
+                Specifications
+              </h2>
+              <ul class="grid grid-cols-1 md:grid-cols-2 gap-[12px]">
+                <li>
+                  Vehicle Type:
+                  <span class="font-semibold text-black dark:text-white"
+                    >Luxury Sedan</span
+                  >
+                </li>
+                <li>
+                  Transmission:
+                  <span class="font-semibold text-black dark:text-white"
+                    >9-Speed Automatic</span
+                  >
+                </li>
+                <li>
+                  Year:
+                  <span class="font-semibold text-black dark:text-white"
+                    >2023</span
+                  >
+                </li>
+                <li>
+                  Engine:
+                  <span class="font-semibold text-black dark:text-white"
+                    >3.0L Turbo Hybrid</span
+                  >
+                </li>
+                <li>
+                  Passenger Capacity:
+                  <span class="font-semibold text-black dark:text-white"
+                    >4</span
+                  >
+                </li>
+                <li>
+                  Fuel Economy:
+                  <span class="font-semibold text-black dark:text-white"
+                    >24 MPG Combined</span
+                  >
+                </li>
+                <li>
+                  Luggage Capacity:
+                  <span class="font-semibold text-black dark:text-white"
+                    >3 Large Bags</span
+                  >
+                </li>
+                <li>
+                  Fuel Type:
+                  <span class="font-semibold text-black dark:text-white"
+                    >Premium Gasoline</span
+                  >
+                </li>
+              </ul>
+              <div
+                class="grid grid-cols-2 gap-[25px] my-[20px] md:my-[25px] lg:my-[30px]"
+              >
+                <img
+                  src="assets/images/vehicles/vehicle-details2.jpg"
+                  class="rounded-[10px]"
+                  alt="vehicle-details-image"
+                />
+                <img
+                  src="assets/images/vehicles/vehicle-details3.jpg"
+                  class="rounded-[10px]"
+                  alt="vehicle-details-image"
+                />
+              </div>
+              <h2
+                class="text-xl md:text-2xl lg:text-3xl leading-[1.2] mb-[12px] md:mb-[15px]"
+              >
+                Premium Features
+              </h2>
               <ul class="grid grid-cols-1 md:grid-cols-2 gap-[12px]">
                 <li
                   class="font-medium text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px]"
@@ -1365,7 +1258,7 @@
                   <i
                     class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
                   ></i>
-                  2-Year Warranty
+                  Premium Wi-Fi
                 </li>
                 <li
                   class="font-medium text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px]"
@@ -1373,7 +1266,7 @@
                   <i
                     class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
                   ></i>
-                  Free Shipping
+                  Complimentary Bar
                 </li>
                 <li
                   class="font-medium text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px]"
@@ -1381,7 +1274,7 @@
                   <i
                     class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
                   ></i>
-                  30-Day Returns
+                  Dual Climate Control
                 </li>
                 <li
                   class="font-medium text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px]"
@@ -1389,407 +1282,298 @@
                   <i
                     class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
                   ></i>
-                  Installation Guide
+                  Rear Entertainment
+                </li>
+                <li
+                  class="font-medium text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px]"
+                >
+                  <i
+                    class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                  ></i>
+                  Wireless Charging
+                </li>
+                <li
+                  class="font-medium text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px]"
+                >
+                  <i
+                    class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                  ></i>
+                  Premium Sound System
+                </li>
+                <li
+                  class="font-medium text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px]"
+                >
+                  <i
+                    class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                  ></i>
+                  Ambient Lighting
+                </li>
+                <li
+                  class="font-medium text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px]"
+                >
+                  <i
+                    class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                  ></i>
+                  Massage Seats
                 </li>
               </ul>
-            </div>
-          </div>
-          <div class="tabs mt-[60px] md:mt-[80px] lg:mt-[100px]">
-            <ul
-              class="nav-tabs flex flex-wrap items-center gap-[8px] gap-x-[20px] md:gap-x-[30px] lg:gap-x-[35px] pb-[12px] mb-[20px] md:mb-[25px] lg:mb-[30px] border-b border-[#D9D9D9] dark:border-white/10"
-            >
-              <li class="nav-item">
-                <button
-                  class="nav-link active block text-black dark:text-white font-bold"
-                  type="button"
+              <h2
+                class="text-xl md:text-2xl lg:text-3xl leading-[1.2] mb-[15px] md:mb-[20px] mt-[20px] md:mt-[25px] lg:mt-[30px]"
+              >
+                Safety Features
+              </h2>
+              <div
+                class="grid grid-cols-1 sm:grid-cols-2 gap-[15px] md:gap-[20px]"
+              >
+                <div
+                  class="flex items-center gap-[15px] md:gap-[25px] border border-[#FFD7D9] dark:border-white/10 bg-[#FFF1F1] dark:bg-black rounded-[10px] p-[20px] md:p-[25px] lg:p-[30px]"
                 >
-                  Description
-                </button>
-              </li>
-              <li class="nav-item">
-                <button
-                  class="nav-link block text-black dark:text-white font-bold"
-                  type="button"
+                  <div class="leading-none flex-none text-5xl">
+                    <i class="flaticon-warning-2"></i>
+                  </div>
+                  <div>
+                    <h3
+                      class="text-base md:text-lg lg:text-xl leading-[1.2] mb-[8px]"
+                    >
+                      Active Brake Assist
+                    </h3>
+                    <p>Automatically applies brakes in emergency situations</p>
+                  </div>
+                </div>
+                <div
+                  class="flex items-center gap-[15px] md:gap-[25px] border border-[#FFD7D9] dark:border-white/10 bg-[#FFF1F1] dark:bg-black rounded-[10px] p-[20px] md:p-[25px] lg:p-[30px]"
                 >
-                  Specifications
-                </button>
-              </li>
-              <li class="nav-item">
-                <button
-                  class="nav-link block text-black dark:text-white font-bold"
-                  type="button"
+                  <div class="leading-none flex-none text-5xl">
+                    <i class="flaticon-car-1"></i>
+                  </div>
+                  <div>
+                    <h3
+                      class="text-base md:text-lg lg:text-xl leading-[1.2] mb-[8px]"
+                    >
+                      Active Lane Keeping
+                    </h3>
+                    <p>Helps keep the vehicle in its lane</p>
+                  </div>
+                </div>
+                <div
+                  class="flex items-center gap-[15px] md:gap-[25px] border border-[#FFD7D9] dark:border-white/10 bg-[#FFF1F1] dark:bg-black rounded-[10px] p-[20px] md:p-[25px] lg:p-[30px]"
                 >
-                  Reviews (2)
-                </button>
-              </li>
-            </ul>
-            <div class="tab-content">
-              <div class="tab-pane hidden active">
-                <p>
-                  The Precision Transmission Cog Wheel is engineered for
-                  exceptional performance and longevity in demanding automotive
-                  applications. Manufactured from high-grade hardened steel
-                  4140, this cog wheel undergoes precise heat treatment to
-                  achieve optimal hardness (HRC 58-62) while maintaining
-                  necessary toughness.
-                </p>
-                <p>
-                  Each tooth is precision-cut using CNC machinery to ensure
-                  perfect meshing with mating gears, reducing noise and
-                  vibration while improving power transmission efficiency. The
-                  black oxide surface treatment provides corrosion resistance
-                  and enhances lubricant retention.
-                </p>
-                <p>
-                  This cog wheel is ideal for performance vehicles, heavy-duty
-                  applications, and restoration projects where reliability and
-                  precision are paramount. Backed by our 2-year warranty, you
-                  can install with confidence.
-                </p>
+                  <div class="leading-none flex-none text-5xl">
+                    <i class="flaticon-blind-spot"></i>
+                  </div>
+                  <div>
+                    <h3
+                      class="text-base md:text-lg lg:text-xl leading-[1.2] mb-[8px]"
+                    >
+                      Blind Spot Assist
+                    </h3>
+                    <p>Warns of vehicles in blind spots</p>
+                  </div>
+                </div>
+                <div
+                  class="flex items-center gap-[15px] md:gap-[25px] border border-[#FFD7D9] dark:border-white/10 bg-[#FFF1F1] dark:bg-black rounded-[10px] p-[20px] md:p-[25px] lg:p-[30px]"
+                >
+                  <div class="leading-none flex-none text-5xl">
+                    <i class="flaticon-parking-area"></i>
+                  </div>
+                  <div>
+                    <h3
+                      class="text-base md:text-lg lg:text-xl leading-[1.2] mb-[8px]"
+                    >
+                      Active Parking Assist
+                    </h3>
+                    <p>Automatically parks the vehicle</p>
+                  </div>
+                </div>
               </div>
-              <div class="tab-pane hidden">
+            </div>
+            <div class="lg:col-span-1">
+              <div
+                class="bg-[#f4f4f4] dark:bg-black rounded-[15px] p-[20px] md:p-[25px] lg:p-[30px] mb-[25px]"
+              >
+                <h3
+                  class="text-base md:text-lg lg:text-xl leading-[1.2] mb-[15px] md:mb-[20px]"
+                >
+                  Book This Vehicle
+                </h3>
+                <form action="vehicle-details.html#">
+                  <div class="mb-[15px]">
+                    <label for="pickup-location" class="block mb-[6px]">
+                      Pickup Location
+                    </label>
+                    <input
+                      type="text"
+                      name="pickup-location"
+                      id="pickup-location"
+                      placeholder="Enter address"
+                      class="form-input !bg-white dark:!bg-dark rounded-[5px] !border-[#d9d9d9] dark:!border-white/10"
+                    />
+                  </div>
+                  <div class="mb-[15px]">
+                    <label for="destination" class="block mb-[6px]">
+                      Destination
+                    </label>
+                    <input
+                      type="text"
+                      name="destination"
+                      id="destination"
+                      placeholder="Where to?"
+                      class="form-input !bg-white dark:!bg-dark rounded-[5px] !border-[#d9d9d9] dark:!border-white/10"
+                    />
+                  </div>
+                  <div class="mb-[15px]">
+                    <label for="phone-number" class="block mb-[6px]">
+                      Date and Time
+                    </label>
+                    <div class="grid grid-cols-1 sm:grid-cols-2">
+                      <div class="relative mb-[10px] sm:mb-0">
+                        <input
+                          type="date"
+                          class="form-input !bg-white dark:!bg-dark rounded-[5px] !border-[#d9d9d9] dark:!border-white/10 cursor-pointer ltr:sm:rounded-r-none rtl:sm:rounded-l-none [&::-webkit-calendar-picker-indicator]:opacity-0 ltr:!pr-0 rtl:!pl-0"
+                          name="pick-up-date"
+                          id="pick-up-date"
+                        />
+                      </div>
+                      <div class="relative ltr:sm:-ml-px rtl:sm:-mr-px">
+                        <input
+                          type="time"
+                          class="form-input !bg-white dark:!bg-dark rounded-[5px] !border-[#d9d9d9] dark:!border-white/10 cursor-pointer ltr:sm:rounded-l-none rtl:sm:rounded-r-none dark:[&::-webkit-calendar-picker-indicator]:invert"
+                          name="pick-up-time"
+                          id="pick-up-time"
+                        />
+                      </div>
+                    </div>
+                  </div>
+                  <div class="mb-[15px]">
+                    <label for="duration-hours" class="block mb-[6px]">
+                      Duration (hours)
+                    </label>
+                    <select
+                      name="duration-hours"
+                      id="duration-hours"
+                      class="form-select !bg-white dark:!bg-dark rounded-[5px] !border-[#d9d9d9] dark:!border-white/10"
+                    >
+                      <option value="0" selected>8 hours</option>
+                      <option value="1">12 hours</option>
+                      <option value="2">16 hours</option>
+                      <option value="3">20 hours</option>
+                    </select>
+                  </div>
+                  <button type="submit" class="primary-btn group mb-[15px]">
+                    <span> Book Now </span>
+                    <i class="ri-calendar-2-line"></i>
+                  </button>
+                  <p>Available for booking today</p>
+                </form>
+              </div>
+              <div
+                class="bg-[#f4f4f4] dark:bg-black rounded-[15px] p-[20px] md:p-[25px] lg:p-[30px] mb-[25px]"
+              >
+                <h3
+                  class="text-base md:text-lg lg:text-xl leading-[1.2] mb-[15px] md:mb-[18px]"
+                >
+                  Included in Price
+                </h3>
                 <ul>
                   <li
-                    class="flex items-center border-l border-r border-t border-[#D9D9D9] dark:border-white/10 last:border-b"
+                    class="font-medium text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px] mb-[10px] last:mb-0"
                   >
-                    <span
-                      class="block py-[10px] px-[15px] md:px-[20px] ltr:border-r rtl:border-l border-[#d9d9d9] dark:border-white/10 w-[120px] md:w-[150px]"
-                    >
-                      Color:
-                    </span>
-                    <span class="block px-[15px] md:px-[20px]">
-                      Blue, Purple, White
-                    </span>
+                    <i
+                      class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                    ></i>
+                    Professional Chauffeur
                   </li>
                   <li
-                    class="flex items-center border-l border-r border-t border-[#D9D9D9] dark:border-white/10 last:border-b"
+                    class="font-medium text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px] mb-[10px] last:mb-0"
                   >
-                    <span
-                      class="block py-[10px] px-[15px] md:px-[20px] ltr:border-r rtl:border-l border-[#d9d9d9] dark:border-white/10 w-[120px] md:w-[150px]"
-                    >
-                      Size:
-                    </span>
-                    <span class="block px-[15px] md:px-[20px]"> 20, 24 </span>
+                    <i
+                      class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                    ></i>
+                    Fuel & Tolls
                   </li>
                   <li
-                    class="flex items-center border-l border-r border-t border-[#D9D9D9] dark:border-white/10 last:border-b"
+                    class="font-medium text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px] mb-[10px] last:mb-0"
                   >
-                    <span
-                      class="block py-[10px] px-[15px] md:px-[20px] ltr:border-r rtl:border-l border-[#d9d9d9] dark:border-white/10 w-[120px] md:w-[150px]"
-                    >
-                      Material:
-                    </span>
-                    <span class="block px-[15px] md:px-[20px]">
-                      100% Polyester
-                    </span>
+                    <i
+                      class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                    ></i>
+                    Insurance Coverage
                   </li>
                   <li
-                    class="flex items-center border-l border-r border-t border-[#D9D9D9] dark:border-white/10 last:border-b"
+                    class="font-medium text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px] mb-[10px] last:mb-0"
                   >
-                    <span
-                      class="block py-[10px] px-[15px] md:px-[20px] ltr:border-r rtl:border-l border-[#d9d9d9] dark:border-white/10 w-[120px] md:w-[150px]"
-                    >
-                      Height:
-                    </span>
-                    <span class="block px-[15px] md:px-[20px]">
-                      180 cm - 5' 11”
-                    </span>
+                    <i
+                      class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                    ></i>
+                    Bottled Water & Refreshments
                   </li>
                   <li
-                    class="flex items-center border-l border-r border-t border-[#D9D9D9] dark:border-white/10 last:border-b"
+                    class="font-medium text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px] mb-[10px] last:mb-0"
                   >
-                    <span
-                      class="block py-[10px] px-[15px] md:px-[20px] ltr:border-r rtl:border-l border-[#d9d9d9] dark:border-white/10 w-[120px] md:w-[150px]"
-                    >
-                      Bust:
-                    </span>
-                    <span class="block px-[15px] md:px-[20px]">
-                      83 cm - 32”
-                    </span>
+                    <i
+                      class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                    ></i>
+                    Wi-Fi & Device Charging
                   </li>
                   <li
-                    class="flex items-center border-l border-r border-t border-[#D9D9D9] dark:border-white/10 last:border-b"
+                    class="font-medium text-black dark:text-white relative ltr:pl-[27px] rtl:pr-[27px] mb-[10px] last:mb-0"
                   >
-                    <span
-                      class="block py-[10px] px-[15px] md:px-[20px] ltr:border-r rtl:border-l border-[#d9d9d9] dark:border-white/10 w-[120px] md:w-[150px]"
-                    >
-                      Waist:
-                    </span>
-                    <span class="block px-[15px] md:px-[20px]">
-                      57 cm - 22”
-                    </span>
-                  </li>
-                  <li
-                    class="flex items-center border-l border-r border-t border-[#D9D9D9] dark:border-white/10 last:border-b"
-                  >
-                    <span
-                      class="block py-[10px] px-[15px] md:px-[20px] ltr:border-r rtl:border-l border-[#d9d9d9] dark:border-white/10 w-[120px] md:w-[150px]"
-                    >
-                      Hips:
-                    </span>
-                    <span class="block px-[15px] md:px-[20px]">
-                      88 cm - 35
-                    </span>
-                  </li>
-                  <li
-                    class="flex items-center border-l border-r border-t border-[#D9D9D9] dark:border-white/10 last:border-b"
-                  >
-                    <span
-                      class="block py-[10px] px-[15px] md:px-[20px] ltr:border-r rtl:border-l border-[#d9d9d9] dark:border-white/10 w-[120px] md:w-[150px]"
-                    >
-                      Shipping:
-                    </span>
-                    <span class="block px-[15px] md:px-[20px]"> Free </span>
+                    <i
+                      class="ri-check-double-line font-normal text-primary absolute top-1/2 -translate-y-1/2 ltr:left-0 rtl:right-0 text-xl"
+                    ></i>
+                    Flight Tracking (Airport Pickups)
                   </li>
                 </ul>
               </div>
-              <div class="tab-pane hidden">
+              <div class="group overflow-hidden relative rounded-[15px]">
+                <a
+                  href="driver-details.html"
+                  class="flex items-center justify-center w-[65px] h-[65px] md:w-[75px] md:h-[75px] rounded-full bg-white text-primary absolute top-[20px] md:top-[25px] lg:top-[25px] ltr:right-[20px] ltr:md:right-[25px] ltr:lg:right-[25px] rtl:left-[20px] rtl:md:left-[25px] rtl:lg:left-[25px] hover:bg-primary hover:text-white text-3xl z-[1]"
+                >
+                  <i class="ri-arrow-right-line"></i>
+                </a>
+                <img
+                  src="assets/images/drivers/driver1.jpg"
+                  class="rounded-[15px] transition-all duration-500 ease-in-out group-hover:scale-110"
+                  alt="driver-image"
+                />
                 <div
-                  class="border border-[#d9d9d9] dark:border-white/10 rounded-[15px] p-[20px] md:p-[25px] lg:p-[30px] mt-[20px] md:mt-[25px] first:mt-0"
-                >
-                  <div
-                    class="flex items-center leading-none text-primary gap-[2px] mb-[15px]"
-                  >
-                    <i class="ri-star-fill"></i>
-                    <i class="ri-star-fill"></i>
-                    <i class="ri-star-fill"></i>
-                    <i class="ri-star-fill"></i>
-                    <i class="ri-star-fill"></i>
-                  </div>
-                  <p class="font-medium text-base md:text-lg lg:text-xl">
-                    “The car was spotless and in perfect condition. I drove over
-                    400 km without a single issue. ASIA MAX really maintains their
-                    vehicles well.”
-                  </p>
-                  <span class="block"> Scott Castillo </span>
-                </div>
-                <div
-                  class="border border-[#d9d9d9] dark:border-white/10 rounded-[15px] p-[20px] md:p-[25px] lg:p-[30px] mt-[20px] md:mt-[25px] first:mt-0"
-                >
-                  <div
-                    class="flex items-center leading-none text-primary gap-[2px] mb-[15px]"
-                  >
-                    <i class="ri-star-fill"></i>
-                    <i class="ri-star-fill"></i>
-                    <i class="ri-star-fill"></i>
-                    <i class="ri-star-fill"></i>
-                    <i class="ri-star-half-fill"></i>
-                  </div>
-                  <p class="font-medium text-base md:text-lg lg:text-xl">
-                    “I’ve tried a few local rental companies, but ASIA MAX gives
-                    the best value — clean cars, fair prices, and quick service.
-                    Definitely using them again!”
-                  </p>
-                  <span class="block"> Marshall Bainter </span>
-                </div>
-                <h2
-                  class="text-xl md:text-2xl lg:text-3xl leading-[1.2] mb-[8px] md:mb-[10px] mt-[20px] md:mt-[25px] lg:mt-[30px]"
-                >
-                  Write a Review
-                </h2>
-                <p>
-                  Your email address will not be published. Required fields are
-                  marked *
-                </p>
-                <form
-                  action="product-details.html#"
-                  class="grid grid-cols-1 md:grid-cols-3 gap-[20px] mt-[15px] md:mt-[20px] lg:mt-[25px]"
+                  class="absolute left-0 right-0 bottom-0 z-[1] p-[20px] md:p-[25px] lg:p-[30px] flex items-center justify-between"
                 >
                   <div>
-                    <label for="name" class="block mb-[6px]"> Name * </label>
-                    <input
-                      type="text"
-                      class="form-input rounded-[5px] !border-[#D9D9D9] dark:!border-white/10 !bg-transparent"
-                      placeholder="Enter your name"
-                      id="name"
-                      name="name"
-                    />
-                  </div>
-                  <div>
-                    <label for="email" class="block mb-[6px]"> Email * </label>
-                    <input
-                      type="email"
-                      class="form-input rounded-[5px] !border-[#D9D9D9] dark:!border-white/10 !bg-transparent"
-                      placeholder="Enter your email"
-                      id="email"
-                      name="email"
-                    />
-                  </div>
-                  <div>
-                    <label for="rate-this-item" class="block mb-[6px]">
-                      Rate This Item
-                    </label>
-                    <select
-                      name="rate-this-item"
-                      id="rate-this-item"
-                      class="form-select rounded-[5px] !border-[#D9D9D9] dark:!border-white/10 !bg-transparent"
+                    <h3
+                      class="!text-white mb-[5px] text-base md:text-lg lg:text-xl leading-[1.2]"
                     >
-                      <option value="0" selected>Select</option>
-                      <option value="1">5</option>
-                      <option value="2">4</option>
-                      <option value="3">3</option>
-                      <option value="4">2</option>
-                      <option value="5">1</option>
-                    </select>
+                      <a href="driver-details.html" class="hover:text-primary">
+                        Patrick Akers
+                      </a>
+                    </h3>
+                    <span class="text-white"> Executive Chauffeur </span>
                   </div>
-                  <div class="md:col-span-3">
-                    <label for="additional-comment" class="block mb-[6px]">
-                      Additional Comment *
-                    </label>
-                    <textarea
-                      class="form-input rounded-[5px] !border-[#D9D9D9] dark:!border-white/10 !bg-transparent"
-                      id="additional-comment"
-                      name="additional-comment"
-                      placeholder="Write here any comment..."
-                    ></textarea>
+                  <div>
+                    <span
+                      class="inline-block text-13 md:text-sm bg-primary text-white rounded-[30px] py-px px-[8px]"
+                    >
+                      4.9 (128 reviews)
+                    </span>
                   </div>
-                  <div
-                    class="md:col-span-3 form-check flex items-center gap-[10px] md:mb-[5px]"
-                  >
-                    <input
-                      type="checkbox"
-                      class="cursor-pointer flex-none -mt-px"
-                      id="saveInfo"
-                    />
-                    <label for="saveInfo" class="cursor-pointer inline-block">
-                      Save my name and email in this browser for the next time I
-                      review.
-                    </label>
-                  </div>
-                  <div class="md:col-span-3">
-                    <button type="submit" class="primary-btn group">
-                      <span> Submit Review </span>
-                      <i class="ri-arrow-right-line"></i>
-                    </button>
-                  </div>
-                </form>
+                </div>
+                <div
+                  class="absolute inset-0 rounded-[15px]"
+                  style="
+                    background: linear-gradient(
+                      180deg,
+                      rgba(13, 20, 22, 0) 50%,
+                      rgba(13, 20, 22, 0.9) 100%
+                    );
+                  "
+                ></div>
               </div>
             </div>
           </div>
         </div>
       </div>
-      <!-- End Product Details -->
-
-      <!-- Related Products -->
-      <div class="pb-[60px] md:pb-[80px] lg:pb-[100px] xl:pb-[120px]">
-        <div class="container">
-          <h2
-            class="mb-[30px] md:mb-[35px] lg:mb-[40px] text-xl md:text-2xl lg:text-3xl leading-[1.2]"
-          >
-            Related products
-          </h2>
-          <div
-            class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-[25px]"
-          >
-            <div class="group text-center">
-              <div
-                class="relative rounded-[15px] overflow-hidden mb-[20px] md:mb-[25px]"
-              >
-                <a href="product-details.html" class="block rounded-[15px]">
-                  <img
-                    src="assets/images/products/product4.jpg"
-                    class="rounded-[15px] transition-all duration-300 ease-in-out group-hover:scale-110"
-                    alt="product-image"
-                  />
-                </a>
-                <button
-                  type="submit"
-                  class="primary-btn absolute left-1/2 -translate-x-1/2 bottom-[20px] md:bottom-[25px] lg:bottom-[30px] z-[1] opacity-0 invisible group-hover:opacity-100 group-hover:visible"
-                >
-                  <span> Add To Cart </span>
-                  <i
-                    class="ri-shopping-cart-line !bg-white !text-black dark:!bg-dark dark:!text-white"
-                  ></i>
-                </button>
-              </div>
-              <h3
-                class="text-base md:text-lg lg:text-xl leading-[1.2] mb-[8px] md:mb-[12px]"
-              >
-                <a href="product-details.html" class="hover:text-primary">
-                  Automotive shock
-                </a>
-              </h3>
-              <div
-                class="leading-none flex items-center justify-center gap-[10px]"
-              >
-                <span class="block line-through"> $50.00 </span>
-                <span class="block text-primary"> $35.00 </span>
-              </div>
-            </div>
-            <div class="group text-center">
-              <div
-                class="relative rounded-[15px] overflow-hidden mb-[20px] md:mb-[25px]"
-              >
-                <a href="product-details.html" class="block rounded-[15px]">
-                  <img
-                    src="assets/images/products/product6.jpg"
-                    class="rounded-[15px] transition-all duration-300 ease-in-out group-hover:scale-110"
-                    alt="product-image"
-                  />
-                </a>
-                <button
-                  type="submit"
-                  class="primary-btn absolute left-1/2 -translate-x-1/2 bottom-[20px] md:bottom-[25px] lg:bottom-[30px] z-[1] opacity-0 invisible group-hover:opacity-100 group-hover:visible"
-                >
-                  <span> Add To Cart </span>
-                  <i
-                    class="ri-shopping-cart-line !bg-white !text-black dark:!bg-dark dark:!text-white"
-                  ></i>
-                </button>
-              </div>
-              <h3
-                class="text-base md:text-lg lg:text-xl leading-[1.2] mb-[8px] md:mb-[12px]"
-              >
-                <a href="product-details.html" class="hover:text-primary">
-                  Metal spark plug
-                </a>
-              </h3>
-              <div
-                class="leading-none flex items-center justify-center gap-[10px]"
-              >
-                <span class="block line-through"> $35.00 </span>
-                <span class="block text-primary"> $25.00 </span>
-              </div>
-            </div>
-            <div class="group text-center">
-              <div
-                class="relative rounded-[15px] overflow-hidden mb-[20px] md:mb-[25px]"
-              >
-                <a href="product-details.html" class="block rounded-[15px]">
-                  <img
-                    src="assets/images/products/product9.jpg"
-                    class="rounded-[15px] transition-all duration-300 ease-in-out group-hover:scale-110"
-                    alt="product-image"
-                  />
-                </a>
-                <button
-                  type="submit"
-                  class="primary-btn absolute left-1/2 -translate-x-1/2 bottom-[20px] md:bottom-[25px] lg:bottom-[30px] z-[1] opacity-0 invisible group-hover:opacity-100 group-hover:visible"
-                >
-                  <span> Add To Cart </span>
-                  <i
-                    class="ri-shopping-cart-line !bg-white !text-black dark:!bg-dark dark:!text-white"
-                  ></i>
-                </button>
-              </div>
-              <h3
-                class="text-base md:text-lg lg:text-xl leading-[1.2] mb-[8px] md:mb-[12px]"
-              >
-                <a href="product-details.html" class="hover:text-primary">
-                  Car suspension
-                </a>
-              </h3>
-              <div
-                class="leading-none flex items-center justify-center gap-[10px]"
-              >
-                <span class="block line-through"> $60.00 </span>
-                <span class="block text-primary"> $45.00 </span>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <!-- End Related Products -->
+      <!-- End Vehicle Details -->
 
       <!-- Download Our App -->
       <div class="py-[30px] md:py-[40px] lg:py-[50px] bg-primary text-white">
@@ -1812,7 +1596,7 @@
               </h3>
               <div class="flex flex-wrap items-center gap-[10px]">
                 <a
-                  href="product-details.html#"
+                  href="vehicle-details.html#"
                   target="_blank"
                   class="inline-block relative border border-white/30 bg-[#171E20] rounded-[5px] py-[10px] ltr:pr-[18px] rtl:pl-[18px] ltr:pl-[57px] rtl:pr-[57px] hover:border-white"
                 >
@@ -1829,7 +1613,7 @@
                   </span>
                 </a>
                 <a
-                  href="product-details.html#"
+                  href="vehicle-details.html#"
                   target="_blank"
                   class="inline-block relative border border-white/30 bg-[#171E20] rounded-[5px] py-[10px] ltr:pr-[18px] rtl:pl-[18px] ltr:pl-[57px] rtl:pr-[57px] hover:border-white"
                 >
@@ -1874,28 +1658,28 @@
             </p>
             <div class="flex items-center gap-[10px] mt-[20px] lg:mt-[25px]">
               <a
-                href="product-details.html#"
+                href="vehicle-details.html#"
                 class="flex items-center justify-center text-white w-[35px] md:w-[40px] h-[35px] md:h-[40px] border border-[#292F31] rounded-full hover:bg-primary hover:border-primary"
                 target="_blank"
               >
                 <i class="ri-facebook-fill"></i>
               </a>
               <a
-                href="product-details.html#"
+                href="vehicle-details.html#"
                 class="flex items-center justify-center text-white w-[35px] md:w-[40px] h-[35px] md:h-[40px] border border-[#292F31] rounded-full hover:bg-primary hover:border-primary"
                 target="_blank"
               >
                 <i class="ri-twitter-x-fill"></i>
               </a>
               <a
-                href="product-details.html#"
+                href="vehicle-details.html#"
                 class="flex items-center justify-center text-white w-[35px] md:w-[40px] h-[35px] md:h-[40px] border border-[#292F31] rounded-full hover:bg-primary hover:border-primary"
                 target="_blank"
               >
                 <i class="ri-linkedin-fill"></i>
               </a>
               <a
-                href="product-details.html#"
+                href="vehicle-details.html#"
                 class="flex items-center justify-center text-white w-[35px] md:w-[40px] h-[35px] md:h-[40px] border border-[#292F31] rounded-full hover:bg-primary hover:border-primary"
                 target="_blank"
               >
@@ -1926,7 +1710,7 @@
                     href="pricing.html"
                     class="text-[#d9d9d9] hover:text-primary"
                   >
-                    Pricing plan
+                    
                   </a>
                 </li>
                 <li class="mb-[8px] last:mb-0">
@@ -1934,7 +1718,7 @@
                     href="locations.html"
                     class="text-[#d9d9d9] hover:text-primary"
                   >
-                    Locations
+                    
                   </a>
                 </li>
                 <li class="mb-[8px] last:mb-0">
@@ -1964,7 +1748,7 @@
               <ul>
                 <li class="mb-[8px] last:mb-0">
                   <a
-                    href="product-details.html#"
+                    href="vehicle-details.html#"
                     target="_blank"
                     class="text-[#d9d9d9] hover:text-primary"
                   >
@@ -1973,7 +1757,7 @@
                 </li>
                 <li class="mb-[8px] last:mb-0">
                   <a
-                    href="product-details.html#"
+                    href="vehicle-details.html#"
                     target="_blank"
                     class="text-[#d9d9d9] hover:text-primary"
                   >
@@ -1982,7 +1766,7 @@
                 </li>
                 <li class="mb-[8px] last:mb-0">
                   <a
-                    href="product-details.html#"
+                    href="vehicle-details.html#"
                     target="_blank"
                     class="text-[#d9d9d9] hover:text-primary"
                   >
@@ -1991,7 +1775,7 @@
                 </li>
                 <li class="mb-[8px] last:mb-0">
                   <a
-                    href="product-details.html#"
+                    href="vehicle-details.html#"
                     target="_blank"
                     class="text-[#d9d9d9] hover:text-primary"
                   >
@@ -2000,7 +1784,7 @@
                 </li>
                 <li class="mb-[8px] last:mb-0">
                   <a
-                    href="product-details.html#"
+                    href="vehicle-details.html#"
                     target="_blank"
                     class="text-[#d9d9d9] hover:text-primary"
                   >
@@ -2034,12 +1818,12 @@
                 >
                   Email:
                   <a
-                    href="https://templates.arxionlabs.com/cdn-cgi/l/email-protection#2b434e4747446b594e455f5a05484446"
+                    href="https://templates.arxionlabs.com/cdn-cgi/l/email-protection#9df5f8f1f1f2ddeff8f3e9ecb3fef2f0"
                     class="font-bold md:text-lg lg:text-xl text-primary hover:underline"
                   >
                     <span
                       class="__cf_email__"
-                      data-cfemail="78101d141417380a1d160c09561b1715"
+                      data-cfemail="ff979a939390bf8d9a918b8ed19c9092"
                       >[email&#160;protected]</span
                     >
                   </a>
@@ -2049,7 +1833,7 @@
                 >
                   Address:
                   <a
-                    href="product-details.html#"
+                    href="vehicle-details.html#"
                     target="_blank"
                     class="font-semibold text-white hover:text-primary"
                   >
@@ -2123,7 +1907,7 @@
           if (b) {
             var d = b.createElement("script");
             d.innerHTML =
-              "window.__CF$cv$params={r:'9d5f1f850f1da7e0',t:'MTc3MjQ0MTEwNA=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";
+              "window.__CF$cv$params={r:'9d5f1e179bdba7e0',t:'MTc3MjQ0MTA0NQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";
             b.getElementsByTagName("head")[0].appendChild(d);
           }
         }
