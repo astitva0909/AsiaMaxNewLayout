@@ -1,15 +1,15 @@
-<svg viewBox="0 0 500 120" xmlns="http://www.w3.org/2000/svg">
-  <!-- Brand Name -->
-  <text x="0" y="60" font-family="Poppins, Arial, sans-serif" font-size="48" font-weight="700">
-    <tspan fill="#ff5a1f">Asia</tspan>
-    <tspan fill="#111827"> Max</tspan>
+<svg viewBox="0 0 800 140" xmlns="http://www.w3.org/2000/svg">
+  <!-- Main Brand -->
+  <text x="0" y="60" font-family="Poppins, Arial, sans-serif" font-size="44" font-weight="700">
+    <tspan fill="#ff5a1f">ASIA</tspan>
+    <tspan fill="#111827"> MAX</tspan>
   </text>
 
-  <!-- Tagline -->
-  <text x="2" y="95" font-family="Poppins, Arial, sans-serif" font-size="18" fill="#6b7280">
-    Tours &amp; Travels
+  <!-- Full Company Name -->
+  <text x="2" y="100" font-family="Poppins, Arial, sans-serif" font-size="16" fill="#6b7280" letter-spacing="1">
+    TRAVEL &amp; TOURS SDN. BHD.
   </text>
 
   <!-- Accent Line -->
-  <rect x="0" y="105" width="120" height="4" fill="#ff5a1f"></rect>
+  <rect x="0" y="115" width="160" height="4" fill="#ff5a1f"></rect>
 </svg>
