@@ -1376,7 +1376,7 @@
           </div>
 
           <!-- slide 5 -->
-          <div class="swiper-slide hero-slide">
+          <!-- <div class="swiper-slide hero-slide">
             <div
               class="hero-bg desktop"
               style="
@@ -1404,7 +1404,7 @@
                 >
               </div>
             </div>
-          </div>
+          </div> -->
         </div>
 
         <!-- Controls -->
@@ -1416,87 +1416,75 @@
 
       <!-- How It Works -->
       <div
-        class="pt-[60px] md:pt-[80px] lg:pt-0 pb-[60px] md:pb-[80px] lg:pb-[100px] xl:pb-[120px] lg:-mt-[100px] xl:-mt-[190px] 2xl:-mt-[230px]"
+        class="pt-[20px] md:pt-[80px] lg:pt-0 pb-[60px] md:pb-[80px] lg:pb-[100px] xl:pb-[120px] lg:-mt-[100px] xl:-mt-[190px] 2xl:-mt-[230px] -mt-[40px] md:mt-0 lg:-mt-[100px]"
       >
         <div class="container lg:!max-w-full 2xl:!max-w-[1620px]">
           <div class="grid grid-cols-1 lg:grid-cols-3 gap-[25px] items-end">
             <div
-              class="lg:col-span-1 bg-[#E9F0E5] dark:bg-black rounded-[15px] p-[20px] md:p-[25px] lg:p-[30px] xl:max-w-[460px] ltr:lg:-mr-[45px] rtl:lg:-ml-[45px] ltr:xl:mr-0 rtl:xl:ml-0"
+              class="lg:col-span-1 bg-[#E9F0E5] dark:bg-black rounded-[15px] p-[15px] md:p-[20px] xl:max-w-[460px] ltr:lg:-mr-[45px] rtl:lg:-ml-[45px] ltr:xl:mr-0 rtl:xl:ml-0"
               data-cue="slideInUp"
             >
-              <h2
-                class="text-xl md:text-2xl lg:text-3xl leading-[1.2] mb-[15px] md:mb-[20px]"
-              >
-                Start a Reservation
-              </h2>
-              <form action="index.html#">
-                <div class="mb-[10px]">
+              <!-- Top Text -->
+              <div class="text-center mb-4">
+                <h2 class="text-base font-semibold text-black">
+                  Reliable Transport Across Malaysia
+                </h2>
+                <p class="text-xs text-gray-500">
+                  Car, Van & Bus Rental with Driver
+                </p>
+                <div class="w-[40px] h-[2px] bg-primary mx-auto mt-2"></div>
+              </div>
+
+              <!-- Title -->
+              <h2 class="text-lg font-semibold mb-[10px]">Quick Booking</h2>
+
+              <!-- FORM -->
+              <form action="#">
+                <!-- Pickup -->
+                <div class="mb-[8px]">
                   <input
                     type="text"
                     class="form-input !bg-white dark:!bg-dark !border-body/20 dark:!border-white/15 rounded-[5px]"
-                    name="pick-up"
-                    id="pick-up"
-                    placeholder="Where to?"
+                    placeholder="Pickup location"
                   />
                 </div>
-                <div class="mb-[20px]">
+
+                <!-- Drop -->
+                <div class="mb-[8px]">
                   <input
                     type="text"
                     class="form-input !bg-white dark:!bg-dark !border-body/20 dark:!border-white/15 rounded-[5px]"
-                    name="drop-off"
-                    id="drop-off"
                     placeholder="Drop-off location"
                   />
                 </div>
-                <div class="mb-[20px]">
-                  <label for="pick-up" class="font-medium block mb-[8px]">
-                    Pick-up Date & Time
-                  </label>
-                  <div class="grid grid-cols-1 sm:grid-cols-2">
-                    <div class="mb-[10px] sm:mb-0">
-                      <input
-                        type="date"
-                        class="form-input cursor-pointer !bg-white dark:!bg-dark !border-body/20 dark:!border-white/15 rounded-[5px] ltr:sm:rounded-r-none rtl:sm:rounded-l-none"
-                        name="pick-up-date"
-                        id="pick-up-date"
-                      />
-                    </div>
-                    <div class="ltr:sm:-ml-px rtl:sm:-mr-px">
-                      <input
-                        type="time"
-                        class="form-input cursor-pointer !bg-white dark:!bg-dark !border-body/20 dark:!border-white/15 rounded-[5px] ltr:sm:rounded-l-none rtl:sm:rounded-r-none"
-                        name="pick-up-time"
-                        id="pick-up-time"
-                      />
-                    </div>
-                  </div>
+
+                <!-- Pickup Date & Time -->
+                <div class="grid grid-cols-2 gap-[8px] mb-[8px]">
+                  <input
+                    type="date"
+                    class="form-input !bg-white dark:!bg-dark !border-body/20 dark:!border-white/15 rounded-[5px]"
+                  />
+                  <input
+                    type="time"
+                    class="form-input !bg-white dark:!bg-dark !border-body/20 dark:!border-white/15 rounded-[5px]"
+                  />
                 </div>
-                <div class="mb-[20px]">
-                  <label for="drop-off" class="font-medium block mb-[8px]">
-                    Drop-off Date & Time
-                  </label>
-                  <div class="grid grid-cols-1 sm:grid-cols-2">
-                    <div class="mb-[10px] sm:mb-0">
-                      <input
-                        type="date"
-                        class="form-input cursor-pointer !bg-white dark:!bg-dark !border-body/20 dark:!border-white/15 rounded-[5px] ltr:sm:rounded-r-none rtl:sm:rounded-l-none"
-                        name="drop-off-date"
-                        id="drop-off-date"
-                      />
-                    </div>
-                    <div class="ltr:sm:-ml-px rtl:sm:-mr-px">
-                      <input
-                        type="time"
-                        class="form-input cursor-pointer !bg-white dark:!bg-dark !border-body/20 dark:!border-white/15 rounded-[5px] ltr:sm:rounded-l-none rtl:sm:rounded-r-none"
-                        name="drop-off-time"
-                        id="drop-off-time"
-                      />
-                    </div>
-                  </div>
+
+                <!-- Drop Date & Time -->
+                <div class="grid grid-cols-2 gap-[8px] mb-[10px]">
+                  <input
+                    type="date"
+                    class="form-input !bg-white dark:!bg-dark !border-body/20 dark:!border-white/15 rounded-[5px]"
+                  />
+                  <input
+                    type="time"
+                    class="form-input !bg-white dark:!bg-dark !border-body/20 dark:!border-white/15 rounded-[5px]"
+                  />
                 </div>
-                <button type="submit" class="primary-btn group hover:!bg-dark">
-                  <span> View All Cars </span>
-                  <i class="ri-car-line"></i>
+
+                <!-- Button -->
+                <button type="submit" class="primary-btn w-full py-2 text-sm">
+                  Check Availability
                 </button>
               </form>
             </div>

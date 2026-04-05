@@ -5922,6 +5922,7 @@ html[dir="rtl"] .swiper .swiper-slide * {
 }
 
 /* Mobile */
+
 .mobile {
   display: none;
 }
@@ -5959,12 +5960,12 @@ html[dir="rtl"] .swiper .swiper-slide * {
     margin-bottom: 18px;
   }
 }
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
   .swiper-button-next,
   .swiper-button-prev {
     display: none;
   }
-}
+} */
 @media (max-width: 768px) {
   .hero-overlay {
     background: linear-gradient(
@@ -5978,4 +5979,85 @@ html[dir="rtl"] .swiper .swiper-slide * {
 
 .hero-overlay {
   display: none;
+}
+
+@media (max-width: 768px) {
+  .hero-bg {
+    background-size: contain !important;
+    background-position: center !important;
+    background-repeat: no-repeat;
+    background-color: #ffffff; /* fills empty space */
+    transform: none !important;
+  }
+
+  .swiper-slide-active .hero-bg {
+    transform: none !important;
+  }
+}
+@media (max-width: 768px) {
+  .hero-slider,
+  .hero-slide {
+    height: 260px;
+  }
+
+  .hero-bg {
+    height: 220px; /* adjust if needed */
+  }
+}
+@media (max-width: 768px) {
+  .hero-content {
+    display: none;
+  }
+}
+@media (max-width: 768px) {
+  /* Make background white (no black bars) */
+  .hero-bg {
+    background-color: #fff !important;
+    background-size: contain !important;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  /* Slider height */
+  .hero-slider,
+  .hero-slide {
+    height: 220px;
+  }
+
+  /* Move arrows OUTSIDE image */
+  .swiper-button-prev,
+  .swiper-button-next {
+    color: #ff5a1f !important; /* your orange */
+    width: 30px;
+    height: 30px;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+  /* Push arrows to sides */
+  /* .swiper-button-prev {
+    left: 5px;
+  }
+
+  .swiper-button-next {
+    right: 5px;
+  } */
+
+  /* Make arrows smaller */
+  .swiper-button-prev::after,
+  .swiper-button-next::after {
+    font-size: 18px;
+    font-weight: bold;
+  }
+}
+
+@media (max-width: 768px) {
+  .hero-slider {
+    padding: 0 10px; /* space from screen edges */
+  }
+
+  .hero-slide {
+    border-radius: 14px;
+    overflow: hidden; /* IMPORTANT */
+  }
 }
