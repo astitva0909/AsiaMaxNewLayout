@@ -5997,7 +5997,7 @@ html[dir="rtl"] .swiper .swiper-slide * {
 @media (max-width: 768px) {
   .hero-slider,
   .hero-slide {
-    height: 260px;
+    height: auto;
   }
 
   .hero-bg {
@@ -6010,19 +6010,17 @@ html[dir="rtl"] .swiper .swiper-slide * {
   }
 }
 @media (max-width: 768px) {
-  /* Make background white (no black bars) */
   .hero-bg {
-    background-color: #fff !important;
+    background-color: #fff;
     background-size: contain !important;
     background-position: center;
     background-repeat: no-repeat;
   }
 
-  /* Slider height */
-  .hero-slider,
-  .hero-slide {
-    height: 220px;
+  html.dark .hero-bg {
+    background-color: #0f172a !important;
   }
+}
 
   /* Move arrows OUTSIDE image */
   .swiper-button-prev,
@@ -6059,5 +6057,57 @@ html[dir="rtl"] .swiper .swiper-slide * {
   .hero-slide {
     border-radius: 14px;
     overflow: hidden; /* IMPORTANT */
+  }
+}
+
+.theme-toggle-btn {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 999;
+
+  width: 45px;
+  height: 45px;
+
+  border-radius: 50%;
+  border: none;
+
+  background: #ffffff;
+  color: #111;
+
+  font-size: 18px;
+  cursor: pointer;
+
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  transition: all 0.3s ease;
+}
+
+.theme-toggle-btn:hover {
+  transform: scale(1.1);
+}
+.dark .theme-toggle-btn {
+  background: #1e293b;
+  color: #fff;
+}
+
+
+
+
+.hero-bg {
+  width: 100%;
+  height: 100%;
+}
+.hero-slide {
+  aspect-ratio: 16 / 9;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .hero-slide {
+    height: 250px;
   }
 }
